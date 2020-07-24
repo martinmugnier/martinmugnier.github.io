@@ -5,7 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
+
+
 ## Work in progress
+
+
+
 
 #### Point Identification of Panel Binary Models Without Logit Errors
 *We study point identification of fixed effects binary choice models with a
