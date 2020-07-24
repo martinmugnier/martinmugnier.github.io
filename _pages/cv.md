@@ -24,14 +24,4 @@ redirect_from:
   - 2016-2017 : first year of the Master in Economics (joint program offered by Ecole Polytechnique, ENSAE IP Paris, HEC Paris & ENS Paris-Saclay)
   - 2016 : Bachelor’s degree in Economics and Management - Panthéon-Sorbonne University & TSE
 
-You can find my full CV <a href="https://github.com/martinmugnier/martinmugnier.github.io/blob/master/files/paper1.pdf" alt="">here</a>.
-
-<head>
-  <meta http-equiv="content-type" content="text/html; charset=utf-8">
-  <title>kekayan's Resume</title>
-</head>
-<body style="width:100%; height:100%; margin:0;">
-    <iframe src="https://docs.google.com/gview?url= https://github.com/martinmugnier/martinmugnier.github.io/blob/master/files/paper1.pdf &embedded=true" style="width:100%; height:100%;" frameborder="0"></iframe>
-  </body>
-  
-  </html>
+You can find my full CV [here](https://docs.google.com/viewer?url=${https://github.com/martinmugnier/martinmugnier.github.io/raw/master/files/paper1.pdf}).
