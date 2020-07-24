@@ -24,4 +24,6 @@ redirect_from:
   - 2016-2017: first year of the Master in Economics (joint program offered by *Ecole Polytechnique, ENSAE IP Paris, HEC Paris & ENS Paris-Saclay*)
   - 2016: Bachelor’s degree in Economics and Management, *Panthéon-Sorbonne University & TSE*
 
+- 2013-2015 : Preparatory Classes for the competitive exam of ENS Paris-Saclay, *Lycée Ozenne*
+
 You can find my full CV [here](https://nbviewer.jupyter.org/github/martinmugnier/martinmugnier.github.io/blob/master/files/paper1.pdf).
