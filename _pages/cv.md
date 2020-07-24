@@ -13,7 +13,7 @@ redirect_from:
 
 ## Education
 
-- 2019 - Master degree in Applied Mathematics from University of Orsay
+- 2019 - Master degree in Applied Mathematics from Orsay University
   - Mathematics of Randomness track, major in Statistics & Machine Learning
   
 - 2019 - Engineering degree from ENSAE Institut Polytechnique de Paris
