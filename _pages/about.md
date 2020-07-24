@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome on my personal webpage !
+Welcome on my personal webpage.
 
 I am a Ph.D. Student at the Center for Research in Economics and Statistics ([CREST](http://crest.science/)) hosted at [ENSAE IP Paris](https://www.ensae.fr/) under the supervision of Professor [Xavier D'Haultfœuille](https://faculty.crest.fr/xdhaultfoeuille/) ([[CREST](http://crest.science/)-[ENSAE IP Paris](https://www.ensae.fr/)) since September 2019. My research focuses on identification and estimation of nonlinear panel data models and the search for new links with high-dimensional statistics/machine learning theory.
 
