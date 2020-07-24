@@ -24,4 +24,4 @@ redirect_from:
   - 2016-2017 : first year of the Master in Economics (joint program offered by Ecole Polytechnique, ENSAE IP Paris, HEC Paris & ENS Paris-Saclay)
   - 2016 : Bachelor’s degree in Economics and Management - Panthéon-Sorbonne University & TSE
 
-You can find my full CV <a> href="{{ site.baseurl }}/simu.pdf" target="here" </a>.
+You can find my full CV <a href="{{ site.baseurl }}/simu.pdf" target="_blank">here</a>.
