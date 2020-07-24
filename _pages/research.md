@@ -7,7 +7,7 @@ author_profile: true
 
 ## Work in progress
 
-# Point Identification of Panel Binary Models Without Logit Errors
+#### Point Identification of Panel Binary Models Without Logit Errors
 *We study point identification of fixed effects binary choice models with a
 fixed number of periods $T$ and without a large support condition on the regressors.
 In such a setting, few positive results are available, even if the distribution
