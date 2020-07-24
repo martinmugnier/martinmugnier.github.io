@@ -26,3 +26,6 @@ redirect_from:
 
 You can find my full CV <a href="https://github.com/martinmugnier/martinmugnier.github.io/blob/master/files/paper1.pdf" alt="">here</a>.
 
+<body style="width:100%; height:100%; margin:0;">
+    <iframe src="https://docs.google.com/gview?url= https://github.com/martinmugnier/martinmugnier.github.io/blob/master/files/paper1.pdf &embedded=true" style="width:100%; height:100%;" frameborder="0"></iframe>
+  </body>
