@@ -9,7 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-# Education
+
+
+## Education
 
 - 2019 - Master degree in Applied Mathematics from University of Orsay
   - Mathematics of Randomness track, major in Statistics & Machine Learning
@@ -22,4 +24,4 @@ redirect_from:
   - 2016-2017 : first year of the Master in Economics (joint program offered by Ecole Polytechnique, ENSAE IP Paris, HEC Paris & ENS Paris-Saclay)
   - 2016 : Bachelor’s degree in Economics and Management - Panthéon-Sorbonne University & TSE
 
-You can find my full CV here.
+You can find my full CV [here]().
