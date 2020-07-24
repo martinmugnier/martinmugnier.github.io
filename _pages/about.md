@@ -14,5 +14,5 @@ I am a Ph.D. Student at the Center for Research in Economics and Statistics ([CR
 
 I am co-organizer of the Statistics-Econometrics-Machine Learning seminar at CREST ([Stat-Eco-ML](https://statecoml.github.io/)), as well as the internal Firms and Market (Ph.D.) seminar.
 
-Contact : [martin[dot]mugnier[at]ensae[dot]fr](mailto:martin.mugnier@ensae.fr).
+**Contact** : [martin[dot]mugnier[at]ensae[dot]fr](mailto:martin.mugnier@ensae.fr).
 
