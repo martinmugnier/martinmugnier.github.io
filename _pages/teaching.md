@@ -11,7 +11,7 @@ author_profile: true
 
 ## TA sessions
 
-- Econometrics II, ENSAE IP Paris, professor Michael Visser (Graduate level, Spring 2020)
-- Statistics II, ENSAE IP Paris, professor Matthieu Lerasle (Graduate level, Spring 2020)
-- Linear Algebra, ENSAE IP Paris, professor Matthieu Lerasle (Undergraduate level, Fall 2020)
-- Mathematical Fundations of Probability Theory, ENSAE IP Paris, professor Cristina Butucea (Undergraduate level, Fall 2020)
+- [Econometrics II](https://www.ensae.fr/en/courses/econometrics-2/), ENSAE IP Paris, professor Michael Visser (Graduate level, Spring 2020)
+- [Statistics II](https://www.ensae.fr/en/courses/statistics-2/), ENSAE IP Paris, professor Matthieu Lerasle (Graduate level, Spring 2020)
+- [Linear Algebra](https://www.ensae.fr/en/courses/linear-algebra/), ENSAE IP Paris, professor Matthieu Lerasle (Undergraduate level, Fall 2020)
+- [Mathematical Fundations of Probability Theory](https://www.ensae.fr/en/courses/mathematical-fundations-of-probability-theory/), ENSAE IP Paris, professor Cristina Butucea (Undergraduate level, Fall 2020)
