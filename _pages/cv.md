@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+You can find my full CV [here](https://nbviewer.jupyter.org/github/martinmugnier/martinmugnier.github.io/blob/master/files/paper1.pdf).
 
-
-## Education
+# Education
 
 - 2019: Master's degree in [Statistics and Machine Learning](https://master-statml.imo.universite-paris-saclay.fr/) from [Paris-Saclay University](https://www.universite-paris-saclay.fr/en)
   
@@ -23,6 +23,5 @@ redirect_from:
   - 2016-2017: first year of the [Master in Economics](http://phd-in-economics.com/) (joint program offered by Ecole Polytechnique, ENSAE IP Paris, HEC Paris & ENS Paris-Saclay)
   - 2016: Bachelor’s degree in Economics and Management from [Panthéon-Sorbonne University](https://www.pantheonsorbonne.fr/accueil) & [TSE](https://www.tse-fr.eu/fr)
   
- - 2013-2015 : Preparatory classes for the competitive entrance exam of ENS Paris-Saclay, Lycée Ozenne, Toulouse
+ - 2013-2015 : Preparatory classes *ENS Cachan D2* for the competitive entrance exam of ENS Paris-Saclay, Lycée Ozenne, Toulouse
 
-You can find my full CV [here](https://nbviewer.jupyter.org/github/martinmugnier/martinmugnier.github.io/blob/master/files/paper1.pdf).
