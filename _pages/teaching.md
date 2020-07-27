@@ -5,11 +5,11 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Courses
+# Courses
 
 - Linear Algebra and Python, HEC Paris & ENSAE IP Paris, Undergraduate Level (Fall 2019)
 
-## TA sessions
+# TA sessions
 
 - Econometrics II, ENSAE IP Paris, professor Michael Visser (Graduate level, Spring 2020)
 - Statistics II, ENSAE IP Paris, professor Matthieu Lerasle (Graduate level, Spring 2020)
