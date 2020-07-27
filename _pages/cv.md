@@ -11,7 +11,7 @@ redirect_from:
 
 You can find my full CV [here](https://nbviewer.jupyter.org/github/martinmugnier/martinmugnier.github.io/blob/master/files/paper1.pdf).
 
-# Education
+## Education
 
 - 2019: Master's degree in [Statistics and Machine Learning](https://master-statml.imo.universite-paris-saclay.fr/) from [Paris-Saclay University](https://www.universite-paris-saclay.fr/en)
   
