@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my full CV [here](https://nbviewer.jupyter.org/github/martinmugnier/martinmugnier.github.io/blob/master/files/paper1.pdf).
+You can find my full CV [here](https://nbviewer.jupyter.org/github/martinmugnier/martinmugnier.github.io/blob/master/files/CV_Eng.pdf).
 
 ## Education
 
