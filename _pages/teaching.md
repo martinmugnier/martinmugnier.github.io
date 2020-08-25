@@ -5,6 +5,8 @@ permalink: /teaching/
 author_profile: true
 ---
 
+{% include base_path %}
+
 ## Courses
 
 - Linear Algebra and Python, HEC Paris & ENSAE IP Paris, Undergraduate Level (Fall 2019, Fall 2020 cancelled due to Covid-19)
