@@ -7,8 +7,9 @@ author_profile: true
 
 ## Courses
 
-- Linear Algebra and Python, HEC Paris & ENSAE IP Paris, Undergraduate Level (Fall 2019, -Fall 2020- cancelled due to Covid-19)
-<span style=“color:green;”> text goes here</span>
+- Linear Algebra and Python, HEC Paris & ENSAE IP Paris, Undergraduate Level (Fall 2019)
+
+
 ## TA sessions
 
 - [Econometrics II](https://www.ensae.fr/en/courses/econometrics-2/), ENSAE IP Paris, professor Michael Visser (Graduate level, Spring 2020)
