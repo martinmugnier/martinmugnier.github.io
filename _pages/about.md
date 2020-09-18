@@ -21,4 +21,4 @@ I am co-organizer of the *Statistics-Econometrics-Machine Learning* seminar at C
 
 **NEW!**
 
-- 18/09/2020: Our paper "Fixed Effects Binary Choice Models with Three or More Periods" with X. D'Haultfœeuille and L. Davezies is now on arXiv [arXiv:2009.08108] !
+- 18/09/2020: Our paper "Fixed Effects Binary Choice Models with Three or More Periods" with X. D'Haultfœuille and L. Davezies is now on arXiv [arXiv:2009.08108] !
