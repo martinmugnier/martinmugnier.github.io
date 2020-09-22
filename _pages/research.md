@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-## Unpublished research
+## Working Papers
 
 <ul>
  <li><b>Fixed Effects Binary Choice Models with Three or More Periods</b> (joint work with <a href="https://faculty.crest.fr/xdhaultfoeuille/">Xavier D'Haultfœuille</a> and <a href="http://www.crest.fr/ses.php?user=2986)">Laurent Davezies</a>)
@@ -29,6 +29,6 @@ author_profile: true
 
 
 
-## Work in progress
+## Work in Progress
 
 - **Change in Change Asymptotics** (joint work with [Xavier D'Haultfœuille](https://faculty.crest.fr/xdhaultfoeuille/) and [Jérémy L'Hour](https://sites.google.com/site/jeremylhour/))
