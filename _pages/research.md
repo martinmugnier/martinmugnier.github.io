@@ -32,6 +32,6 @@ author_profile: true
 ## Work in Progress
 
 <ul>
- <li> Change in Change Asymptotics (with <a href="https://faculty.crest.fr/xdhaultfoeuille/">Xavier D'Haultfœuille</a> and <a href="https://sites.google.com/site/jeremylhour/">Jérémy L'Hour</a>)
- </ul>
+ <li> Change in Change Asymptotics (with <a href="https://faculty.crest.fr/xdhaultfoeuille/">Xavier D'Haultfœuille</a> and <a href="https://sites.google.com/site/jeremylhour/">Jérémy L'Hour</a>)</li>
+</ul>
  
