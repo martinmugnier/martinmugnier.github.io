@@ -20,4 +20,4 @@ I am co-organizer of the *Statistics-Econometrics-Machine Learning* seminar at C
 
 **News**
 
-- 09/18/2020: Our paper "Fixed Effects Binary Choice Models with Three or More Periods" with [X. D'Haultfœuille](https://faculty.crest.fr/xdhaultfoeuille/) and [L. Davezies](http://www.crest.fr/ses.php?user=2986) is now on arXiv ([link](https://arxiv.org/abs/2009.08108)). 
+- 09/18/2020: Our paper "[Fixed Effects Binary Choice Models with Three or More Periods](https://arxiv.org/abs/2009.08108)" with [X. D'Haultfœuille](https://faculty.crest.fr/xdhaultfoeuille/) and [L. Davezies](http://www.crest.fr/ses.php?user=2986) is now on arXiv. 
