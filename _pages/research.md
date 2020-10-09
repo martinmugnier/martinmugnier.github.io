@@ -26,4 +26,11 @@ author_profile: true
 <ul>
  <li> Change in Change Asymptotics (with <a href="https://faculty.crest.fr/xdhaultfoeuille/">Xavier D'Haultfœuille</a> and <a href="https://sites.google.com/site/jeremylhour/">Jérémy L'Hour</a>)</li>
 </ul>
+
+## Unpublished work
+
+<ul>
+  <li> A Note on the Existence of Conditional Maximum Likelihood Estimates of the Binary Logit Model with Fixed Effects [<a href="https://arxiv.org/abs/2009.09998">arXiv</a>][<a href="https://github.com/martinmugnier/BinLogitCMLE">Package<a>] 
+  </li>
+ </ul>
  
