@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome !
+Welcome!
 
 I am a Ph.D. student at [CREST](http://crest.science/)/[ENSAE IP Paris](https://www.ensae.fr/) under the supervision of Professor [Xavier D'Haultfœuille](https://faculty.crest.fr/xdhaultfoeuille/) since September 2019. 
 
