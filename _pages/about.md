@@ -16,7 +16,7 @@ My research focuses on identification and estimation of nonlinear panel data mod
 
 I am co-organizer of the *Statistics-Econometrics-Machine Learning* seminar at CREST ([Stat-Eco-ML](https://statecoml.github.io/)), as well as the internal *Firms and Market (Ph.D.)* seminar.
 
-## Contact:
+## Contact
 [martin[dot]mugnier[at]ensae[dot]fr](mailto:martin.mugnier@ensae.fr).
 
 ## News
