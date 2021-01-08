@@ -16,8 +16,7 @@ My research focuses on identification and estimation of nonlinear panel data mod
 
 I am co-organizer of the *Statistics-Econometrics-Machine Learning* seminar at CREST ([Stat-Eco-ML](https://statecoml.github.io/)), as well as the internal *Firms and Market (Ph.D.)* seminar.
 
-## Contact
-[martin[dot]mugnier[at]ensae[dot]fr](mailto:martin.mugnier@ensae.fr).
+**Contact:** [martin[dot]mugnier[at]ensae[dot]fr](mailto:martin.mugnier@ensae.fr).
 
 ## News
 - 02/17/2021: I will give a talk on "The Asymptotics of Change-in-Change Estimators" at the [EDMH PhD students seminar](https://www.imo.universite-paris-saclay.fr/-des-doctorants-) in Orsay, France.
