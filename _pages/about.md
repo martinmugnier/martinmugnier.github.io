@@ -19,5 +19,5 @@ I am co-organizer of the [Statistics•Econometrics•Machine-Learning](https://
 **Contact:** [martin[dot]mugnier[at]ensae[dot]fr](mailto:martin.mugnier@ensae.fr).
 
 ## News
-- 02/17/2021: I will give a talk on "The Asymptotics of Change-in-Change Estimators" at the [EDMH PhD students seminar](https://www.imo.universite-paris-saclay.fr/-des-doctorants-) in Orsay, France.
+- 02/17/2021: I will give a talk on "The Asymptotics of Changes-in-Changes Estimators" at the [EDMH PhD students seminar](https://www.imo.universite-paris-saclay.fr/-des-doctorants-) in Orsay, France.
 - 09/18/2020: Our paper "[Fixed Effects Binary Choice Models with Three or More Periods](https://arxiv.org/abs/2009.08108)" with [X. D'Haultfœuille](https://faculty.crest.fr/xdhaultfoeuille/) and [L. Davezies](http://www.crest.fr/ses.php?user=2986) is now on arXiv. 
