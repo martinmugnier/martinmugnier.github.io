@@ -24,7 +24,7 @@ author_profile: true
 ## Work in Progress
 
 <ul>
- <li> The Asymptotics of Change-in-Change Estimators (with <a href="https://faculty.crest.fr/xdhaultfoeuille/">Xavier D'Haultfœuille</a> and <a href="https://sites.google.com/site/jeremylhour/">Jérémy L'Hour</a>)</li>
+ <li> The Asymptotics of Changes-in-Changes Estimators (with <a href="https://faculty.crest.fr/xdhaultfoeuille/">Xavier D'Haultfœuille</a> and <a href="https://sites.google.com/site/jeremylhour/">Jérémy L'Hour</a>)</li>
 </ul>
 
 ## Unpublished work
