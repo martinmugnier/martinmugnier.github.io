@@ -12,7 +12,7 @@ Welcome!
 
 I am a Ph.D. student at [CREST](http://crest.science/)/[ENSAE IP Paris](https://www.ensae.fr/) under the supervision of Professor [Xavier D'Haultfœuille](https://faculty.crest.fr/xdhaultfoeuille/) since September 2019. 
 
-My research focuses on identification and estimation of nonlinear panel data models. I am particularly interested in the use of high-dimensional statistics and machine learning theory to solve such problems.
+My research focuses on identification and estimation of nonlinear panel data models. I am particularly interested in the use of high-dimensional statistics and machine learning tools to solve such problems.
 
 I am co-organizer of the [Statistics•Econometrics•Machine-Learning](https://statecoml.github.io/) seminar at CREST, as well as the internal *Firms and Market (Ph.D.)* seminar.
 
