@@ -24,6 +24,7 @@ I am co-organizer of the [Statistics•Econometrics•Machine-Learning](https://
 - June 22-25, 2021: I will give an online talk at the 2021 IAAE conference
 - June 25-27, 2021: I will give an online talk at the 2021 Asian Meeting of the Econometric Society (AMES2021)
 - July 1-3, 2021: I will give an online talk at the 2021 China Meeting of the Econometric Society (CMES 2021, virtual)
+- August 23-27, 2021: I will give an online talk at the EEA-ESEM Virtual 2021
 
 *Older events:*
 - February 17, 2021: I gave a talk on "The Asymptotics of Changes-in-Changes Estimators" at the [EDMH PhD students seminar](https://www.imo.universite-paris-saclay.fr/-des-doctorants-) in Orsay, France.
