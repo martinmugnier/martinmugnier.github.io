@@ -20,12 +20,12 @@ I am co-organizer of the [Statistics•Econometrics•Machine-Learning](https://
 
 ## News
 *Upcoming events:*
-- June 3-5, 2021: I will give a talk at the 2021 Africa Meeting of the Econometric Society (AFES 2021)
 - June 22-25, 2021: I will give an online talk at the 2021 IAAE conference
 - June 25-27, 2021: I will give an online talk at the 2021 Asian Meeting of the Econometric Society (AMES2021)
 - July 1-3, 2021: I will give an online talk at the 2021 China Meeting of the Econometric Society (CMES 2021, virtual)
 - August 23-27, 2021: I will give an online talk at the EEA-ESEM Virtual 2021
 
 *Older events:*
+- June 3-5, 2021: I gave an online talk at the 2021 Africa Meeting of the Econometric Society (AFES 2021)
 - February 17, 2021: I gave a talk on "The Asymptotics of Changes-in-Changes Estimators" at the [EDMH PhD students seminar](https://www.imo.universite-paris-saclay.fr/-des-doctorants-) in Orsay, France.
 - September 18, 2020: Our paper "[Fixed Effects Binary Choice Models with Three or More Periods](https://arxiv.org/abs/2009.08108)" with [X. D'Haultfœuille](https://faculty.crest.fr/xdhaultfoeuille/) and [L. Davezies](http://www.crest.fr/ses.php?user=2986) is now on arXiv. 
