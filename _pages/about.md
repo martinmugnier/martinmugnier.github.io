@@ -20,10 +20,10 @@ I am co-organizer of the [Statistics•Econometrics•Machine-Learning](https://
 
 ## News
 *Upcoming events:*
-- July 1-3, 2021: I will give an online talk at the 2021 China Meeting of the Econometric Society (CMES 2021, virtual)
 - August 23-27, 2021: I will give an online talk at the EEA-ESEM Virtual 2021
 
 *Older events:*
+- July 1-3, 2021: I gave an online talk at the 2021 China Meeting of the Econometric Society (CMES 2021, virtual)
 - June 22-25, 2021: I gave an online talk at the 2021 IAAE conference
 - June 25-27, 2021: I gave an online talk at the 2021 Asian Meeting of the Econometric Society (AMES2021)
 - June 3-5, 2021: I gave an online talk at the 2021 Africa Meeting of the Econometric Society (AFES 2021)
