@@ -14,7 +14,7 @@ I am a Ph.D. student at [CREST](http://crest.science/)/[ENSAE IP Paris](https://
 
 My research focuses on identification and estimation of nonlinear panel data models. I am particularly interested in the use of high-dimensional statistics and machine learning tools to solve such problems.
 
-I am co-organizer of the [Statistics•Econometrics•Machine-Learning](https://statecoml.github.io/) seminar at CREST, as well as the internal *Firms and Market (Ph.D.)* seminar.
+I am co-organizer of the [Statistics•Econometrics•Machine-Learning](https://statecoml.github.io/) seminar at CREST.
 
 **Contact:** [martin[dot]mugnier[at]ensae[dot]fr](mailto:martin.mugnier@ensae.fr).
 
