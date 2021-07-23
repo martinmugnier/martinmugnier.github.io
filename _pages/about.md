@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome!
 
-I am a Ph.D. student at [CREST](http://crest.science/), [ENSAE IP Paris](https://www.ensae.fr/), [Institut Polytechnique de Paris](https://www.ip-paris.fr/) under the supervision of Professor [Xavier D'Haultfœuille](https://faculty.crest.fr/xdhaultfoeuille/) since September 2019. 
+I am a Ph.D. student at [CREST](http://crest.science/), [ENSAE Paris](https://www.ensae.fr/), [Institut Polytechnique de Paris](https://www.ip-paris.fr/) under the supervision of Professor [Xavier D'Haultfœuille](https://faculty.crest.fr/xdhaultfoeuille/) since September 2019. 
 
 My research focuses on identification and estimation of nonlinear panel data models. I am particularly interested in the use of high-dimensional statistics and machine learning tools to solve such problems.
 
