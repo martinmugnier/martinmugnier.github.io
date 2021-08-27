@@ -24,9 +24,9 @@ author_profile: true
 ## Work in Progress
 
 <ul>
+ <li> Grouped Patterns of Time-Varying Unobserved Heterogeneity in Panel Data Binary Choice Models </li>
  <li> Asymptotic  Properties  of  Empirical  Quantile-Based Estimators (with <a href="https://faculty.crest.fr/xdhaultfoeuille/">Xavier D'Haultfœuille</a> and <a href="https://sites.google.com/site/jeremylhour/">Jérémy L'Hour</a>)</li>
  <li> Identification and (Fast) Estimation of Nonlinear Panel Models with Additively Separable Two-Way Fixed Effects (with <a href="https://sites.google.com/view/aowang-economics/home">Ao Wang</a>) </li>
- <li> Grouped Patterns of Time-Varying Unobserved Heterogeneity in Panel Data Binary Choice Models </li>
 </ul>
 
 ## Unpublished work
