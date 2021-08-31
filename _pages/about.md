@@ -20,8 +20,7 @@ I am co-organizer of the [Statistics•Econometrics•Machine-Learning](https://
 
 ## News
 *Upcoming events:*
-- September 16-18, 2021: I will give a talk on "Identification and (Fast) Estimation of Nonlinear Panel Models with Additively Separable Two-Way Fixed Effects" at the Bristol Econometric Study Group
-[comment]: <>(- August 23-27, 2021: I will give an online talk at the EEA-ESEM Virtual 2021)
+- September 16-18, 2021: I will give a talk on "Identification and (Fast) Estimation of Nonlinear Panel Models with Additively Separable Two-Way Fixed Effects" at the Bristol Econometric Study Group.
 
 *Older events:*
 - July 1-3, 2021: I gave an online talk at the 2021 China Meeting of the Econometric Society (CMES 2021, virtual).
