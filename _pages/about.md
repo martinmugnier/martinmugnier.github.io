@@ -25,7 +25,7 @@ I am co-organizer of the [Statistics•Econometrics•Machine-Learning](https://
 *Upcoming events:*
 
 *Older events:*
-- September 29, 2021: I gave a talk on "Identification and (Fast) Estimation of Nonlinear Panel Models with Additively Separable Two-Way Fixed Effects" at CREST internal Microeconometrics Seminar, UK.
+- September 29, 2021: I gave a talk on "Identification and (Fast) Estimation of Nonlinear Panel Models with Additively Separable Two-Way Fixed Effects" at CREST internal Microeconometrics Seminar, FR.
 - September 16-18, 2021: I gave a talk on "Identification and (Fast) Estimation of Nonlinear Panel Models with Additively Separable Two-Way Fixed Effects" at the Bristol Econometric Study Group, UK.
 - July 1-3, 2021: I gave an online talk at the 2021 China Meeting of the Econometric Society (CMES 2021, virtual).
 - June 22-25, 2021: I gave an online talk at the 2021 IAAE conference.
