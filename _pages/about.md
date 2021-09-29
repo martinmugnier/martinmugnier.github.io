@@ -19,10 +19,14 @@ I am co-organizer of the [Statistics•Econometrics•Machine-Learning](https://
 **Contact:** [martin[dot]mugnier[at]ensae[dot]fr](mailto:martin.mugnier@ensae.fr).
 
 ## News
+- September 29, 2021: a NEW VERSION of our paper "[Fixed Effects Binary Choice Models with Three or More Periods](https://arxiv.org/abs/2009.08108)" with [X. D'Haultfœuille](https://faculty.crest.fr/xdhaultfoeuille/) and [L. Davezies](http://www.crest.fr/ses.php?user=2986) is now on arXiv.
+
+
 *Upcoming events:*
-- September 16-18, 2021: I will give a talk on "Identification and (Fast) Estimation of Nonlinear Panel Models with Additively Separable Two-Way Fixed Effects" at the Bristol Econometric Study Group, UK.
 
 *Older events:*
+- September 29, 2021: I gave a talk on "Identification and (Fast) Estimation of Nonlinear Panel Models with Additively Separable Two-Way Fixed Effects" at CREST internal Microeconometrics Seminar, UK.
+- September 16-18, 2021: I gave a talk on "Identification and (Fast) Estimation of Nonlinear Panel Models with Additively Separable Two-Way Fixed Effects" at the Bristol Econometric Study Group, UK.
 - July 1-3, 2021: I gave an online talk at the 2021 China Meeting of the Econometric Society (CMES 2021, virtual).
 - June 22-25, 2021: I gave an online talk at the 2021 IAAE conference.
 - June 25-27, 2021: I gave an online talk at the 2021 Asian Meeting of the Econometric Society (AMES2021).
