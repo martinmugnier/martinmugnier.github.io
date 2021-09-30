@@ -25,6 +25,7 @@ I am co-organizer of the [Statistics•Econometrics•Machine-Learning](https://
 *Upcoming events:*
 
 *Older events:*
+<sub>
 - September 28, 2021: I gave a talk on "Identification and (Fast) Estimation of Nonlinear Panel Models with Additively Separable Two-Way Fixed Effects" at CREST internal Microeconometrics Seminar, FR.
 - September 16-18, 2021: I gave a talk on "Identification and (Fast) Estimation of Nonlinear Panel Models with Additively Separable Two-Way Fixed Effects" at the Bristol Econometric Study Group, UK.
 - July 1-3, 2021: I gave an online talk at the 2021 China Meeting of the Econometric Society (CMES 2021, virtual).
@@ -32,4 +33,5 @@ I am co-organizer of the [Statistics•Econometrics•Machine-Learning](https://
 - June 25-27, 2021: I gave an online talk at the 2021 Asian Meeting of the Econometric Society (AMES2021).
 - June 3-5, 2021: I gave an online talk at the 2021 Africa Meeting of the Econometric Society (AFES 2021).
 - February 17, 2021: I gave a talk on "Asymptotic  Properties  of  Empirical  Quantile-Based Estimators" at the EDMH PhD students seminar in Orsay, France.
-- September 18, 2020: Our paper "[Fixed Effects Binary Choice Models with Three or More Periods](https://arxiv.org/abs/2009.08108)" with [X. D'Haultfœuille](https://faculty.crest.fr/xdhaultfoeuille/) and [L. Davezies](http://www.crest.fr/ses.php?user=2986) is now on arXiv. 
+- September 18, 2020: Our paper "[Fixed Effects Binary Choice Models with Three or More Periods](https://arxiv.org/abs/2009.08108)" with [X. D'Haultfœuille](https://faculty.crest.fr/xdhaultfoeuille/) and [L. Davezies](http://www.crest.fr/ses.php?user=2986) is now on arXiv.
+ </sub>
