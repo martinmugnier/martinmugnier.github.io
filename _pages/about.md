@@ -10,9 +10,9 @@ redirect_from:
 
 Welcome!
 
-I am a Ph.D. student at [CREST](http://crest.science/), [ENSAE Paris](https://www.ensae.fr/), [Institut Polytechnique de Paris](https://www.ip-paris.fr/) under the supervision of Prof. [Xavier D'Haultfœuille](https://faculty.crest.fr/xdhaultfoeuille/) since September 2019. 
+I am a Ph.D. candidate at [CREST](http://crest.science/), [ENSAE Paris](https://www.ensae.fr/), [Institut Polytechnique de Paris](https://www.ip-paris.fr/) under the supervision of Prof. [Xavier D'Haultfœuille](https://faculty.crest.fr/xdhaultfoeuille/) since September 2019. 
 
-My research focuses on identification and estimation of nonlinear panel data models in the presence of unobserved heterogeneity. I am particularly interested in the use of high-dimensional statistics and machine learning tools to solve such problems.
+My research focuses on identification and estimation of nonlinear panel data models. I am particularly interested in the use of high-dimensional statistics and machine learning tools to solve such problems.
 
 I will visit the Department of Economics of the University of Chicago during the 2022 Winter and Spring Quarters, invited by Prof. Stéphane Bonhomme. 
 
