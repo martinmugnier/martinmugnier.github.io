@@ -24,7 +24,7 @@ I am co-organizer of the [Statistics•Econometrics•Machine-Learning](https://
 
 *Upcoming events:*
 - December 13-15, 2021: I will give an online talk on "Unobserved Clusters of Heterogeneity in Nonlinear Panel Data Models" at the 2021 European Winter Meetings of the Econometric Society, Barcelona (Spain). 
-- 
+
 *Older events:*
 <p>
   <small>
@@ -33,7 +33,7 @@ I am co-organizer of the [Statistics•Econometrics•Machine-Learning](https://
       <li>September 28, 2021: I gave a talk on "Identification and (Fast) Estimation of Nonlinear Panel Models with Additively Separable Two-Way Fixed Effects" at CREST internal Microeconometrics Seminar, FR</li>
       <li>September 16-18, 2021: I gave a talk on "Identification and (Fast) Estimation of Nonlinear Panel Models with Additively Separable Two-Way Fixed Effects" at the Bristol Econometric Study Group, UK.</li>
       <li>July 1-3, 2021: I gave an online talk at the 2021 China Meeting of the Econometric Society (CMES 2021, virtual).</li>
-      <li>June 22-25, 2021: I gave an online talk at the 2021 IAAE conference.<\li>
+      <li>June 22-25, 2021: I gave an online talk at the 2021 IAAE conference.</li>
       <li>June 25-27, 2021: I gave an online talk at the 2021 Asian Meeting of the Econometric Society (AMES2021).</li>
       <li>June 3-5, 2021: I gave an online talk at the 2021 Africa Meeting of the Econometric Society (AFES 2021).</li>
       <li>February 17, 2021: I gave a talk on "Asymptotic  Properties  of  Empirical  Quantile-Based Estimators" at the EDMH PhD students seminar in Orsay, France.<\li>
