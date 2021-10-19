@@ -37,7 +37,7 @@ I am co-organizer of the [Statistics•Econometrics•Machine-Learning](https://
       <li>June 25-27, 2021: I gave an online talk at the 2021 Asian Meeting of the Econometric Society (AMES2021).</li>
       <li>June 3-5, 2021: I gave an online talk at the 2021 Africa Meeting of the Econometric Society (AFES 2021).</li>
       <li>February 17, 2021: I gave a talk on "Asymptotic  Properties  of  Empirical  Quantile-Based Estimators" at the EDMH PhD students seminar in Orsay, France.</li>
-      <li>September 18, 2020: Our paper <a href="https://faculty.crest.fr/xdhaultfoeuille/">X. D'Haultfœuille</a>  and <a href="http://www.crest.fr/ses.php?user=2986">L. Davezies</a> is now on arXiv.</li>
+      <li>September 18, 2020: Our paper <a href="https://arxiv.org/abs/2009.08108">"Fixed Effects Binary Choice Models with Three or More Periods"</a> with <a href="https://faculty.crest.fr/xdhaultfoeuille/">X. D'Haultfœuille</a> and <a href="http://www.crest.fr/ses.php?user=2986">L. Davezies</a> is now on arXiv.</li>
     </ul>
   </small>
 </p>
