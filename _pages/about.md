@@ -23,7 +23,7 @@ I am co-organizer of the [Statistics•Econometrics•Machine-Learning](https://
 ## News
 
 *Upcoming events:*
-- December 13-15, 2021: I will give an online talk on "Unobserved Clusters of Heterogeneity in Nonlinear Panel Data Models" at the 2021 European Winter Meetings of the Econometric Society, Barcelona (Spain). 
+- December 13-15, 2021: I will give an online talk on "Unobserved Clusters of Heterogeneity in Nonlinear Panel Data Models" at the 2021 European Winter Meetings of the Econometric Society, Spain. 
 
 *Older events:*
 <p>
