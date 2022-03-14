@@ -18,7 +18,7 @@ author_profile: true
 </details>
  </li>
  <li>Make the Difference! Computationally Trivial Estimators for Grouped Fixed Effects Models
-<details><summary>[Abstract] [<a href="https://github.com/martinmugnier/martinmugnier.github.io/blob/7f1d029f06c5951ddff112ea4028a7ac54dda46d/files/pwd_estimators.pdf">Paper</a>][<a href="https://github.com/martinmugnier/PWD-Estimators">Replication Code</a>]</summary>
+<details><summary>[Abstract] [<a href="https://github.com/martinmugnier/martinmugnier.github.io/blob/4e5bc3af896ed6e19e25f4426b0c6f514b0b6bca/files/pwd_estimators.pdf">Paper</a>][<a href="https://github.com/martinmugnier/PWD-Estimators">Replication Code</a>]</summary>
 <p>
 <em>Novel estimators are proposed for linear grouped fixed effects models. Rather than predicting a single grouping of units, they deliver a collection of groupings with the same flavor as the so-called LASSO regularization path. Mild conditions are found that ensure their asymptotic guarantees are the same as the so-called grouped fixed effects and post-spectral estimators (Bonhomme and Manresa, 2015; Chetverikov and Manresa, 2021). In contrast, the new estimators are computationally straigthforward and do not require prior knowledge of the number of groups. Monte Carlo simulations suggest good finite sample performance. Applying the approach to real data provides new insights on the potential network structure of the unobserved heterogeneity.
  </em>
