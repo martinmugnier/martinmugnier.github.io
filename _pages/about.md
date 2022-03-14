@@ -21,7 +21,7 @@ I am co-organizer of the [Statistics•Econometrics•Machine-Learning](https://
 **Contact:** [martin[dot]mugnier[at]ensae[dot]fr](mailto:martin.mugnier@ensae.fr).
 
 ## News
-- March 14, 2022: new draft online:  <a href="https://github.com/martinmugnier/martinmugnier.github.io/blob/c077587c5c963e269563d4bafaec1d2219933586/files/pwd_estimators.pdf">"Make the Difference! Computationally Trivial Estimators for Grouped Fixed Effects Models"</a>
+- March 14, 2022: new draft online:  <a href="https://github.com/martinmugnier/martinmugnier.github.io/blob/60dfb0da95a83f2fe5e3545cb292f4b1d075774b/files/main_11_03_2022_final.pdf">"Make the Difference! Computationally Trivial Estimators for Grouped Fixed Effects Models"</a>
 
 *Upcoming events:*
 - March 22, 2022: I will give a talk at CREST Microeconometrics Seminar, FR.
