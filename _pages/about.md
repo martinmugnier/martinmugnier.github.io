@@ -24,7 +24,6 @@ I am co-organizer of the [Statistics•Econometrics•Machine-Learning](https://
 - March 14, 2022: new draft available! (<a href="https://arxiv.org/abs/2203.08879">"Make the Difference! Computationally Trivial Estimators for Grouped Fixed Effects Models"</a>)
 
 *Upcoming events:*
-- June 8-9, 2022: I will give a talk at the Warwick Economics PhD Conference 2022, University of Warwick, Coventry, UK.
 - June 16-19, 2022: I will give a talk at the 2022 North American Summer Meeting of the Econometric Society, Miami, USA.
 - June 22-24, 2022: I will give an online talk at the 2022 Asia Meeting of the Econometric Society, Shenzhen, China.
 
