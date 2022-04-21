@@ -21,7 +21,7 @@ I am co-organizer of the [Statistics•Econometrics•Machine-Learning](https://
 **Contact:** [martin[dot]mugnier[at]ensae[dot]fr](mailto:martin.mugnier@ensae.fr).
 
 ## News
-- March 14, 2022: new draft available! (<a href="https://arxiv.org/abs/2203.08879">"Make the Difference! Computationally Trivial Estimators for Grouped Fixed Effects Models"</a>)
+- March 14, 2022: new draft available! (<a href="https://arxiv.org/abs/2203.08879v2">"Make the Difference! Computationally Trivial Estimators for Grouped Fixed Effects Models"</a>)
 
 *Upcoming events:*
 - June 16-19, 2022: I will give a talk at the 2022 North American Summer Meeting of the Econometric Society, Miami, USA.
