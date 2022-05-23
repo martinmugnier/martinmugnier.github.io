@@ -26,6 +26,7 @@ I am co-organizer of the [Statistics•Econometrics•Machine-Learning](https://
 *Upcoming events:*
 - June 16-19, 2022: I will give a talk at the 2022 North American Summer Meeting of the Econometric Society, Miami, USA.
 - June 22-24, 2022: I will give an online talk at the 2022 Asia Meeting of the Econometric Society, Shenzhen, China.
+- August 22-26, 2022: I will give a talk at the EEA-ESEM 2022 Conference, Milan, Italy.
 
 *Older events*
 
