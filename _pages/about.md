@@ -12,7 +12,7 @@ Welcome!
 
 I am a Ph.D. candidate at [CREST](http://crest.science/), [ENSAE Paris](https://www.ensae.fr/), [Institut Polytechnique de Paris](https://www.ip-paris.fr/) under the supervision of Prof. [Xavier D'Haultfœuille](https://faculty.crest.fr/xdhaultfoeuille/) since September 2019. 
 
-My research focuses on identification and estimation of nonlinear panel data models. I am particularly interested in the use of high-dimensional statistics and machine learning tools to solve such problems.
+My main field of research is econometrics, with a focus on identification and estimation of nonlinear panel data models. I am particularly interested in the use of high-dimensional statistics and machine learning tools to solve such problems.
 
 I am currently visiting the Department of Economics of the University of Chicago for the 2022 Winter and Spring Quarters, invited by Prof. Stéphane Bonhomme. 
 
