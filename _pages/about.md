@@ -24,8 +24,8 @@ I am co-organizer of the [Statistics•Econometrics•Machine-Learning](https://
 - March 14, 2022: new draft available! (<a href="https://arxiv.org/abs/2203.08879v2">"Make the Difference! Computationally Trivial Estimators for Grouped Fixed Effects Models"</a>)
 
 *Upcoming events:*
-- June 16-19, 2022: I will give a talk at the 2022 North American Summer Meeting of the Econometric Society, Miami, USA.
 - June 22-24, 2022: I will give an online talk at the 2022 Asia Meeting of the Econometric Society, Shenzhen, China.
+- July 14-16, 2022: Poster Session, Bristol Econometric Study Group, Bristol, UK.
 - August 22-26, 2022: I will give a talk at the 2022 EEA-ESEM Conference, Milan, Italy.
 
 *Older events*
@@ -33,7 +33,8 @@ I am co-organizer of the [Statistics•Econometrics•Machine-Learning](https://
 <p>
   <small>
     <ul>
-      <li> April 7, 2022: I will give a talk at the University of Chicago's Econometrics Workshop, USA. </li>
+      <li> June 16-19, 2022: I gave a talk at the 2022 North American Summer Meeting of the Econometric Society, Miami, USA. </li>
+      <li> April 7, 2022: I gave a talk at the University of Chicago's Econometrics Workshop, USA. </li>
       <li> March 22, 2022: I gave an online talk at CREST Microeconometrics Seminar, FR. </li>
       <li> December 13-15, 2021: I gave an online talk on "Unobserved Clusters of Time-Varying Heterogeneity in Nonlinear Panel Data Models" at the 2021 European Winter Meetings of the Econometric Society, Spain. </li>
       <li>September 29, 2021: a NEW VERSION of our paper <a href="https://arxiv.org/abs/2009.08108">"Fixed Effects Binary Choice Models with Three or More Periods"</a> with <a href="https://faculty.crest.fr/xdhaultfoeuille/">X. D'Haultfœuille</a> and <a href="http://www.crest.fr/ses.php?user=2986">L. Davezies</a> is now on arXiv.</li>
