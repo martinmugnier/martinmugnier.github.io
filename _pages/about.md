@@ -23,7 +23,7 @@ I am co-organizer of the [Statistics•Econometrics•Machine-Learning](https://
 ## News
 
 *Upcoming events:*
-- July 14-16, 2022: Poster Session, Bristol Econometric Study Group, Bristol, UK.
+- July 14-16, 2022: I will give a talk at the 2022 Bristol Econometric Study Group, Bristol, UK.
 - August 22-26, 2022: I will give a talk at the 2022 EEA-ESEM Conference, Milan, Italy.
 
 *Older events*
