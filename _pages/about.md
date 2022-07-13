@@ -14,7 +14,7 @@ I am a Ph.D. candidate at [CREST](http://crest.science/), [ENSAE Paris](https://
 
 My main field of research is Econometrics, with a focus on identification and estimation of nonlinear panel data models. I am particularly interested in the use of high-dimensional statistics and machine learning tools to solve such problems.
 
-I am currently visiting the Department of Economics of the University of Chicago for the 2022 Winter and Spring Quarters, invited by Prof. Stéphane Bonhomme. 
+I visited the Department of Economics of the University of Chicago in the Winter and Spring of 2022, invited by Prof. Stéphane Bonhomme. 
 
 I am co-organizer of the [Statistics•Econometrics•Machine-Learning](https://statecoml.github.io/) seminar at CREST.
 
