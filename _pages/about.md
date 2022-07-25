@@ -31,7 +31,7 @@ I am co-organizer of the [Statistics•Econometrics•Machine-Learning](https://
   <small>
     <ul>
       <li> July 14-16, 2022: I gave a talk at the 2022 Bristol Econometric Study Group Conference, Bristol, UK. </li>
-      <li> June 22-24, 2022: I gave an online talk at the 2022 Asia Meeting of the Econometric Society, Shenzhen, China. </li>
+      <li> June 22-24, 2022: I gave an online talk at the 2022 Asian Meeting of the Econometric Society, Shenzhen, China. </li>
       <li> June 16-19, 2022: I gave a talk at the 2022 North American Summer Meeting of the Econometric Society, Miami, USA. </li>
       <li> April 7, 2022: I gave a talk at the University of Chicago's Econometrics Workshop, USA. </li>
       <li> March 22, 2022: I gave an online talk at CREST Microeconometrics Seminar, FR. </li>
