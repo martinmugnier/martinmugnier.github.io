@@ -24,7 +24,7 @@ I am co-organizer of the [Statistics•Econometrics•Machine-Learning](https://
 
 *Upcoming events:*
 - August 22-26, 2022: I will give a talk at the 2022 EEA-ESEM Conference, Milan, Italy.
-- August 8, 2022: new working paper available! (["Identification and (Fast) Estimation of Large Nonlinear Panel Models with Two-Way Fixed Effects](https://www.google.com/url?q=https%3A%2F%2Fwww.dropbox.com%2Fs%2Fry044f35p1c0c4q%2FMugnier%2520and%2520Wang%2520%25282022%2529.pdf%3Fdl%3D0&sa=D&sntz=1&usg=AOvVaw3mgOAN2YgptEGt0pK1eeJm), with [Ao Wang](https://sites.google.com/view/aowang-economics/home))
+- August 10, 2022: new working paper available! (["Identification and (Fast) Estimation of Large Nonlinear Panel Models with Two-Way Fixed Effects](https://www.google.com/url?q=https%3A%2F%2Fwww.dropbox.com%2Fs%2Fry044f35p1c0c4q%2FMugnier%2520and%2520Wang%2520%25282022%2529.pdf%3Fdl%3D0&sa=D&sntz=1&usg=AOvVaw3mgOAN2YgptEGt0pK1eeJm), with [Ao Wang](https://sites.google.com/view/aowang-economics/home))
 
 *Older events*
 
