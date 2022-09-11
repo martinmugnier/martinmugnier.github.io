@@ -17,10 +17,10 @@ author_profile: true
 </p>
 </details>
  </li>
- <li>Make the Difference! Computationally Trivial Estimators for Grouped Fixed Effects Models
+ <li>A Simple and Computationally Trivial Estimator for Grouped Fixed Effects Models
 <details><summary>[Abstract] [<a href="https://arxiv.org/abs/2203.08879v2">Paper</a>][<a href="https://github.com/martinmugnier/PWD-Estimators">Replication Code</a>]</summary>
 <p>
-<em>Novel estimators are proposed for linear grouped fixed effects models. Rather than predicting a single grouping of units, they deliver a collection of groupings with the same flavor as the so-called Lasso regularization path. Mild conditions are found that ensure their asymptotic guarantees are the same as the so-called grouped fixed effects and post-spectral estimators (Bonhomme and Manresa, 2015; Chetverikov and Manresa, 2021). In contrast, the new estimators are computationally straightforward and do not require prior knowledge of the number of groups. Monte Carlo simulations suggest good finite sample performance. Applying the approach to real data provides new insights on the potential network structure of the unobserved heterogeneity.
+<em>This paper provides a new fixed effects estimator for linear panel data models with clustered time patterns of unobserved heterogeneity. The method combines smooth and convex nuclear norm regularization with a pairwise differencing argument that takes at most O(N^3) elementary operations to agglomeratively cluster cross-sectional units. Asymptotic guarantees are established in a framework where $T$ can grow at any power of N, as both N and T diverge to infinity. In contrast to existing approaches, the proposed estimator (i) is computationally straightforward, (ii) does not require a known upper bound on the number of groups, (iii) consistently estimates the number of groups, (iv) correctly classifies units into groups with probability tending to one uniformly across units, (v) is asymptotically equivalent to the infeasible least squares estimator that controls for the true group indicators, (vi) is asymptotically normal at parametric rates, (vii) and is free of the incidental parameters problem.
  </em>
 </p>
 </details>
