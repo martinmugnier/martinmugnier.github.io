@@ -23,7 +23,7 @@ I am co-organizer of the [Statistics•Econometrics•Machine-Learning](https://
 ## News
 
 *Upcoming events:*
-- August 22-26, 2022: I will give a talk at the 2022 EEA-ESEM Conference, Milan, Italy.
+- September 11, 2022: new version of my paper ``A Simple and Computationally Trivial Estimator for Grouped Fixed Effects Models'' [available here](https://github.com/martinmugnier/martinmugnier.github.io/blob/f8755bd77aba8ae650d44a8fd7d2a3409e7bb2e3/files/a_simple_and_computationally_trivial_estimator_for_grouped_fixed_effects_models.pdf)
 - August 10, 2022: new working paper available! (["Identification and (Fast) Estimation of Large Nonlinear Panel Models with Two-Way Fixed Effects"](http://ssrn.com/abstract=4186349), with [Ao Wang](https://sites.google.com/view/aowang-economics/home))
 
 *Older events*
@@ -31,6 +31,7 @@ I am co-organizer of the [Statistics•Econometrics•Machine-Learning](https://
 <p>
   <small>
     <ul>
+      <li>August 22-26, 2022: I gave a talk at the 2022 EEA-ESEM Conference, Milan, Italy.
       <li> July 14-16, 2022: I gave a talk at the 2022 Bristol Econometric Study Group Conference, Bristol, UK. </li>
       <li> June 22-24, 2022: I gave an online talk at the 2022 Asian Meeting of the Econometric Society, Shenzhen, China. </li>
       <li> June 16-19, 2022: I gave a talk at the 2022 North American Summer Meeting of the Econometric Society, Miami, USA. </li>
