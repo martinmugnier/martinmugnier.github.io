@@ -23,7 +23,7 @@ I am co-organizer of the [Statistics•Econometrics•Machine-Learning](https://
 ## News
 
 *Upcoming events:*
-- September 11, 2022:  NEW VERSION! ["A Simple and Computationally Trivial Estimator for Grouped Fixed Effects Models"](https://github.com/martinmugnier/martinmugnier.github.io/blob/287f5ebd6627a5ef0d48057d1c33ad637f044673/files/a_simple_and_computationally_trivial_estimator_for_grouped_fixed_effects_models.pdf)
+- September 11, 2022:  NEW VERSION! ["A Simple and Computationally Trivial Estimator for Grouped Fixed Effects Models"](https://github.com/martinmugnier/martinmugnier.github.io/blob/4fe44e9080a27ed1e61654a1d49c741495942329/files/a_simple_and_computationally_trivial_estimator_for_grouped_fixed_effects_models.pdf)
 - August 10, 2022: new working paper available! (["Identification and (Fast) Estimation of Large Nonlinear Panel Models with Two-Way Fixed Effects"](http://ssrn.com/abstract=4186349), with [Ao Wang](https://sites.google.com/view/aowang-economics/home))
 
 *Older events*
