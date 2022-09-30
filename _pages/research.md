@@ -31,7 +31,7 @@ author_profile: true
 </p>
 </details>
  </li>
- <li>Identification and (Fast) Estimation of Large Nonlinear Panel Models with Two-Way Fixed Effects (with <a href="https://sites.google.com/view/aowang-economics/home">Ao Wang</a>)
+ <li>Identification and (Fast) Estimation of Large Nonlinear Panel Models with Two-Way Fixed Effects (with <a href="https://sites.google.com/view/aowang-economics/home">Ao Wang</a>), <em>Submitted</em>.
  <details><summary>[Abstract][<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4186349">Paper</a>][<a href="https://github.com/martinmugnier/nlmfe">Python package</a>]</summary>
   <p>
    <em>We study a nonlinear two-way fixed effects panel model that allows for unobserved individual heterogeneity in slopes (interacting with covariates) and (unknown) flexibly specified link function. The former is particularly relevant when the researcher is interested in the distributional causal effects of covariates, and the latter mitigates potential misspecification errors due to imposing a known link function. We show that the fixed effects parameters and the (nonparametrically specified) link function can be identified when both individual and time dimensions are large. We propose a novel iterative Gauss-Seidel estimation procedure that overcomes the practical challenge of dimensionality in the number of fixed effects when the dataset is large. We revisit two empirical studies in trade (Helpman et al., 2008) and innovation (Aghion et al., 2013), and find non-negligible unobserved dispersion in trade elasticity (across countries) and the effect of institutional ownership on innovation (across firms). These exercises emphasize the usefulness of our method in capturing flexible (and unobserved) heterogeneity in the causal relationship of interest that may have important implications for the subsequent policy analysis.
@@ -46,7 +46,6 @@ author_profile: true
 ## Work in Progress
 
 <ul>
- <li> Unobserved Clusters of Time-Varying Heterogeneity in Nonlinear Panel Data Models </li>
  <li> Asymptotic  Properties  of  Empirical  Quantile-Based Estimators (with <a href="https://faculty.crest.fr/xdhaultfoeuille/">Xavier D'Haultfœuille</a> and <a href="https://sites.google.com/site/jeremylhour/">Jérémy L'Hour</a>)</li>
 </ul>
 
