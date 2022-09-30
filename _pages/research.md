@@ -6,6 +6,21 @@ author_profile: true
 ---
 
 
+## Job Market Paper ##
+[link](https://drive.google.com/file/d/1KhmV8tOcoGdIMMpQ4aaw0ddvyeL5tG4V/view?usp=sharing)
+*Abstract:* In studies based on longitudinal data, researchers often assume time-invariant unobserved heterogeneity or
+linear-in-parameters conditional expectations. Violation of these assumptions may lead to poor counterfactuals. I study the identification and estimation of a large class of nonlinear grouped fixed effects (NGFE) models
+where the relationship between observed covariates and cross-sectional unobserved heterogeneity is left unrestricted but the latter only takes a restricted number of paths over time. I show that the corresponding “clusters”
+and the nonparametrically specified link function can be point-identified when both dimensions of the panel
+are large. I propose a semiparametric NGFE estimator whose implementation is feasible, and establish its large
+sample properties in popular binary and count outcome models. Distinctive features of the NGFE estimator
+are that it is asymptotically normal unbiased at parametric rates, and it allows for the number of periods to
+grow slowly with the number of cross-sectional units. Monte Carlo simulations suggest good finite sample
+performance. I apply this new method to revisit the so-called inverted-U relationship between product market
+competition and innovation. Allowing for clustered patterns of time-varying unobserved heterogeneity leads
+to a much flatter estimated curve.
+
+
 ## Working Papers
 
 <ul>
