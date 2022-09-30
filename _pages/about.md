@@ -16,7 +16,7 @@ My main field of research is Econometrics, with a focus on identification and es
 
 **I am on the 2022/2023 Academic Job Market, available for interviews.**
 
-[CV]()[Job Market Paper](https://drive.google.com/file/d/1KhmV8tOcoGdIMMpQ4aaw0ddvyeL5tG4V/view?usp=sharing)
+[CV]() -- [Job Market Paper](https://drive.google.com/file/d/1KhmV8tOcoGdIMMpQ4aaw0ddvyeL5tG4V/view?usp=sharing)
 
 I visited the Department of Economics of the University of Chicago in the Winter and Spring of 2022, invited by Prof. Stéphane Bonhomme. 
 
