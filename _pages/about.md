@@ -26,10 +26,12 @@ I am co-organizer of the [Statistics•Econometrics•Machine-Learning](https://
 
 ## News
 
-*Upcoming events:*
-- November 21, 2022: CREST-PSE Econometrics Seminar, Paris, FR.
+- October 10, 2022: Our paper <a href="https://arxiv.org/abs/2009.08108">"Fixed Effects Binary Choice Models with Three or More Periods"</a> with <a href="https://faculty.crest.fr/xdhaultfoeuille/">X. D'Haultfœuille</a> and <a href="http://www.crest.fr/ses.php?user=2986">L. Davezies</a> has just been Conditionally Accepted for publication at **Quantitative Economics**!
 - September 11, 2022:  NEW VERSION! ["A Simple and Computationally Trivial Estimator for Grouped Fixed Effects Models"](https://github.com/martinmugnier/martinmugnier.github.io/blob/239ffc3b96cb71226731c376880ddd20cca33e44/files/a_simple_and_computationally_trivial_estimator_for_grouped_fixed_effects_models.pdf)
 - August 10, 2022: new working paper available! (["Identification and (Fast) Estimation of Large Nonlinear Panel Models with Two-Way Fixed Effects"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4186349), with [Ao Wang](https://sites.google.com/view/aowang-economics/home))
+
+*Upcoming events:*
+- November 21, 2022: CREST-PSE Econometrics Seminar, Paris, FR.
 
 *Older events*
 
