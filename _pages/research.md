@@ -11,11 +11,9 @@ author_profile: true
 
 *Abstract:* In studies based on longitudinal data, researchers often assume time-invariant unobserved heterogeneity or linear-in-parameters conditional expectations. Violation of these assumptions may lead to poor counterfactuals. I study the identification and estimation of a large class of nonlinear grouped fixed effects (NGFE) models where the relationship between observed covariates and cross-sectional unobserved heterogeneity is left unrestricted but the latter only takes a restricted number of paths over time. I show that the corresponding "clusters" and the nonparametrically specified link function can be point-identified when both dimensions of the panel are large. I propose a semiparametric NGFE estimator whose implementation is feasible, and establish its large sample  properties in popular binary and count outcome models. Distinctive features of the NGFE estimator are that it is asymptotically normal unbiased at parametric rates, and it allows for the number of periods to grow slowly with the number of cross-sectional units. Monte Carlo simulations suggest good finite sample performance. I apply this new method to revisit the so-called inverted-U relationship between product market competition and innovation. Allowing for clustered patterns of time-varying unobserved heterogeneity leads to a much flatter estimated curve.
 
-
-## Working Papers
-
+## Published Papers
 <ul>
- <li>Fixed Effects Binary Choice Models with Three or More Periods (with <a href="https://faculty.crest.fr/xdhaultfoeuille/">Xavier D'Haultfœuille</a> and <a href="http://www.crest.fr/ses.php?user=2986)">Laurent Davezies</a>),  <em>Forthcoming, <b>Quantitative Economics</b></em>.
+ <li>Fixed Effects Binary Choice Models with Three or More Periods (with <a href="https://faculty.crest.fr/xdhaultfoeuille/">Xavier D'Haultfœuille</a> and <a href="http://www.crest.fr/ses.php?user=2986)">Laurent Davezies</a>),  <em>Accepted to <b>Quantitative Economics</b></em>.
 <details><summary>[Abstract] [<a href="https://arxiv.org/pdf/2009.08108v4.pdf">Paper (version: Sep. 2022)</a>]</summary>
 <p>
 <em>We consider fixed effects binary choice models with a fixed number of periods $T$ and without a large support condition on the regressors. If the time-varying unobserved terms are i.i.d. with known distribution $F$, Chamberlain (2010) shows that the common slope parameter is point identified if and only if $F$ is logistic. However, he only considers in his proof $T=2$. We show that actually, the result does not generalize to $T\geq 3$: the common slope parameter can be identified when $F$ belongs to a family including the logit distribution. Identification is based on a conditional moment restriction. Under restrictions on the covariates, these moment conditions lead to point identification of relative effects. Finally, if $T=3$ and mild conditions hold, GMM estimators based on these conditional moment restrictions reach the semiparametric efficiency bound.
@@ -23,6 +21,11 @@ author_profile: true
 </p>
 </details>
  </li>
+ </ul>
+
+## Working Papers
+
+<ul>
  <li>A Simple and Computationally Trivial Estimator for Grouped Fixed Effects Models, <em>Submitted</em>.
 <details><summary>[Abstract] [<a href="https://github.com/martinmugnier/martinmugnier.github.io/blob/4dfd6a73d00b3d62eeb1c7228407304e0d83d3ea/files/a_simple_and_computationally_trivial_estimator_for_grouped_fixed_effects_models.pdf">Paper (version: Sep. 2022)</a>][<a href="https://github.com/martinmugnier/PWD-Estimators">Replication Code</a>][<a href="https://github.com/martinmugnier/martinmugnier.github.io/blob/deb3e2135c00d71e5c3ea11dc2ac16e9347ed8a2/files/a_simple_and_computationally_trivial_estimator_for_grouped_fixed_effects_models_SUPP_MAT.pdf">Supplemental Material</a>]</summary>
 <p>
