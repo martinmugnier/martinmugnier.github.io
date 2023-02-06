@@ -26,7 +26,7 @@ I am co-organizer of the [Statistics•Econometrics•Machine-Learning](https://
 
 ## News
 
-- October 11, 2022: Our paper <a href="https://arxiv.org/abs/2009.08108">"Fixed Effects Binary Choice Models with Three or More Periods"</a>, with <a href="http://www.crest.fr/ses.php?user=2986">L. Davezies</a> and <a href="https://faculty.crest.fr/xdhaultfoeuille/">X. D'Haultfœuille</a>, has just been accepted for publication in **Quantitative Economics**!
+- October 11, 2022: Our paper <a href="https://arxiv.org/abs/2009.08108">"Fixed Effects Binary Choice Models with Three or More Periods"</a>, with <a href="http://www.crest.fr/ses.php?user=2986">Laurent Davezies</a> and <a href="https://faculty.crest.fr/xdhaultfoeuille/">Xavier D'Haultfœuille</a>, has just been accepted for publication in **Quantitative Economics**!
 - September 11, 2022:  NEW VERSION! ["A Simple and Computationally Trivial Estimator for Grouped Fixed Effects Models"](https://github.com/martinmugnier/martinmugnier.github.io/blob/4dfd6a73d00b3d62eeb1c7228407304e0d83d3ea/files/a_simple_and_computationally_trivial_estimator_for_grouped_fixed_effects_models.pdf)
 - August 10, 2022: new working paper available! (["Identification and (Fast) Estimation of Large Nonlinear Panel Models with Two-Way Fixed Effects"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4186349), with [Ao Wang](https://sites.google.com/view/aowang-economics/home))
 
@@ -54,7 +54,7 @@ I am co-organizer of the [Statistics•Econometrics•Machine-Learning](https://
       <li>June 25-27, 2021: I gave an online talk at the 2021 Asian Meeting of the Econometric Society (AMES2021).</li>
       <li>June 3-5, 2021: I gave an online talk at the 2021 Africa Meeting of the Econometric Society (AFES 2021).</li>
       <li>February 17, 2021: I gave a talk on "Asymptotic  Properties  of  Empirical  Quantile-Based Estimators" at the EDMH PhD students seminar in Orsay, France.</li>
-      <li>September 18, 2020: Our paper <a href="https://arxiv.org/abs/2009.08108">"Fixed Effects Binary Choice Models with Three or More Periods"</a> with <a href="http://www.crest.fr/ses.php?user=2986">L. Davezies</a> and <a href="https://faculty.crest.fr/xdhaultfoeuille/">X. D'Haultfœuille</a> is now on arXiv.</li>
+      <li>September 18, 2020: Our paper <a href="https://arxiv.org/abs/2009.08108">"Fixed Effects Binary Choice Models with Three or More Periods"</a> with <a href="http://www.crest.fr/ses.php?user=2986">Laurent Davezies</a> and <a href="https://faculty.crest.fr/xdhaultfoeuille/">Xavier D'Haultfœuille</a> is now on arXiv.</li>
     </ul>
   </small>
 </p>
