@@ -10,17 +10,14 @@ redirect_from:
 
 Welcome!
 
-I am a Ph.D. Candidate at [CREST](http://crest.science/), [ENSAE Paris](https://www.ensae.fr/), [Institut Polytechnique de Paris](https://www.ip-paris.fr/) under the supervision of Prof. [Xavier D'Haultfœuille](https://faculty.crest.fr/xdhaultfoeuille/) since September 2019. 
+I am a Ph.D. Candidate at [CREST](http://crest.science/), [ENSAE Paris](https://www.ensae.fr/), [Institut Polytechnique de Paris](https://www.ip-paris.fr/) under the supervision of Prof. [Xavier D'Haultfœuille](https://faculty.crest.fr/xdhaultfoeuille/).
 
-My main field of research is Econometrics, with a focus on identification and estimation of nonlinear panel data models. I am particularly interested in the use of high-dimensional statistics and machine learning tools (e.g., unsupervised clustering for grouped fixed effects) to solve such problems.
+My main field of research is Econometrics, with a focus on identification and estimation of nonlinear panel data models. I am particularly interested in the use of high-dimensional statistics and machine learning tools (e.g., unsupervised clustering for grouped fixed effects) to solve such problems. 
 
-**I am on the 2022/2023 Academic Job Market, available for interviews.**
+**I will join the Department of Economics at Oxford University as a Postdoctoral Researcher in September 2023.**
 
-[CV](https://github.com/martinmugnier/martinmugnier.github.io/raw/master/files/CV_Martin_Mugnier.pdf) -- [Job Market Paper](https://drive.google.com/file/d/1KhmV8tOcoGdIMMpQ4aaw0ddvyeL5tG4V/view?usp=sharing)
+**I will join the Department of Economics at the Paris School of Economics (PSE) as an Assistant Professor in September 2024.**
 
-I visited the Department of Economics of the University of Chicago in the Winter and Spring of 2022, invited by Prof. Stéphane Bonhomme. 
-
-I am co-organizer of the [Statistics•Econometrics•Machine-Learning](https://statecoml.github.io/) seminar at CREST.
 
 **Contact:** [martin[dot]mugnier[at]ensae[dot]fr](mailto:martin.mugnier@ensae.fr).
 
@@ -30,14 +27,13 @@ I am co-organizer of the [Statistics•Econometrics•Machine-Learning](https://
 - September 11, 2022:  NEW VERSION! ["A Simple and Computationally Trivial Estimator for Grouped Fixed Effects Models"](https://github.com/martinmugnier/martinmugnier.github.io/blob/4dfd6a73d00b3d62eeb1c7228407304e0d83d3ea/files/a_simple_and_computationally_trivial_estimator_for_grouped_fixed_effects_models.pdf)
 - August 10, 2022: new working paper available! (["Identification and (Fast) Estimation of Large Nonlinear Panel Models with Two-Way Fixed Effects"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4186349), with [Ao Wang](https://sites.google.com/view/aowang-economics/home))
 
-*Upcoming events:*
-- November 21, 2022: CREST-PSE Econometrics Seminar, Paris, FR.
 
 *Older events*
 
 <p>
   <small>
     <ul>
+      <li>November 21, 2022: CREST-PSE Econometrics Seminar, Paris, FR.</li>
       <li>August 22-26, 2022: I gave a talk at the 2022 EEA-ESEM Conference, Milan, Italy.</li>
       <li> July 14-16, 2022: I gave a talk at the 2022 Bristol Econometric Study Group Conference, Bristol, UK. </li>
       <li> June 22-24, 2022: I gave an online talk at the 2022 Asian Meeting of the Econometric Society, Shenzhen, China. </li>
