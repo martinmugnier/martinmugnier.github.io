@@ -16,7 +16,7 @@ My main field of research is Econometrics, with a focus on identification and es
 
 **I will join the Department of Economics at Oxford University as a Postdoctoral Researcher in September 2023.**
 
-**I will join the Department of Economics at the Paris School of Economics (PSE) as an Assistant Professor in September 2024.**
+**I will join the Paris School of Economics (PSE) as an Assistant Professor in September 2024.**
 
 
 **Contact:** [martin[dot]mugnier[at]ensae[dot]fr](mailto:martin.mugnier@ensae.fr).
