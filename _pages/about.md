@@ -26,7 +26,7 @@ My main field of research is Econometrics, with a focus on identification and es
   <small>
     <ul>
       <li>November 21, 2022: CREST-PSE Econometrics Seminar, Paris, FR.</li>
-      <li>October 11, 2022: Our paper <a href="https://arxiv.org/abs/2009.08108">"Fixed Effects Binary Choice Models with Three or More Periods"</a>, with <a href="http://www.crest.fr/ses.php?user=2986">Laurent Davezies</a> and <a href="https://faculty.crest.fr/xdhaultfoeuille/">Xavier D'Haultfœuille</a>, has just been accepted for publication in **Quantitative Economics**!</li>
+      <li>October 11, 2022: Our paper <a href="https://arxiv.org/abs/2009.08108">"Fixed Effects Binary Choice Models with Three or More Periods"</a>, with <a href="http://www.crest.fr/ses.php?user=2986">Laurent Davezies</a> and <a href="https://faculty.crest.fr/xdhaultfoeuille/">Xavier D'Haultfœuille</a>, has just been accepted for publication in <em>Quantitative Economics</em>!</li>
       <li>September 11, 2022:  NEW VERSION! ["A Simple and Computationally Trivial Estimator for Grouped Fixed Effects Models (https://github.com/martinmugnier/martinmugnier.github.io/blob/4dfd6a73d00b3d62eeb1c7228407304e0d83d3ea/files/a_simple_and_computationally_trivial_estimator_for_grouped_fixed_effects_models.pdf)</li>
       <li>August 10, 2022: new working paper available! (["Identification and (Fast) Estimation of Large Nonlinear Panel Models with Two-Way Fixed Effects"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4186349), with [Ao Wang](https://sites.google.com/view/aowang-economics/home))</li>
       <li>August 22-26, 2022: I gave a talk at the 2022 EEA-ESEM Conference, Milan, Italy.</li>
