@@ -14,19 +14,11 @@ I am a Ph.D. Candidate at [CREST](http://crest.science/), [ENSAE Paris](https://
 
 My main field of research is Econometrics, with a focus on identification and estimation of nonlinear panel data models. I am particularly interested in the use of high-dimensional statistics and machine learning tools (e.g., unsupervised clustering for grouped fixed effects) to solve such problems. 
 
-**I will join the Department of Economics at Oxford University as a Postdoctoral Researcher in September 2023.**
-
-**I will join the Paris School of Economics (PSE) as an Assistant Professor in September 2024.**
-
-
 **Contact:** [martin[dot]mugnier[at]ensae[dot]fr](mailto:martin.mugnier@ensae.fr).
 
 ## News
-
-- October 11, 2022: Our paper <a href="https://arxiv.org/abs/2009.08108">"Fixed Effects Binary Choice Models with Three or More Periods"</a>, with <a href="http://www.crest.fr/ses.php?user=2986">Laurent Davezies</a> and <a href="https://faculty.crest.fr/xdhaultfoeuille/">Xavier D'Haultfœuille</a>, has just been accepted for publication in **Quantitative Economics**!
-- September 11, 2022:  NEW VERSION! ["A Simple and Computationally Trivial Estimator for Grouped Fixed Effects Models"](https://github.com/martinmugnier/martinmugnier.github.io/blob/4dfd6a73d00b3d62eeb1c7228407304e0d83d3ea/files/a_simple_and_computationally_trivial_estimator_for_grouped_fixed_effects_models.pdf)
-- August 10, 2022: new working paper available! (["Identification and (Fast) Estimation of Large Nonlinear Panel Models with Two-Way Fixed Effects"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4186349), with [Ao Wang](https://sites.google.com/view/aowang-economics/home))
-
+- February 11th, 2023: I will join the Department of Economics at Oxford University as a Postdoctoral Researcher in September 2023.
+- February 6, 2023: I will join the Paris School of Economics (PSE) as an Assistant Professor in September 2024.
 
 *Older events*
 
@@ -34,6 +26,9 @@ My main field of research is Econometrics, with a focus on identification and es
   <small>
     <ul>
       <li>November 21, 2022: CREST-PSE Econometrics Seminar, Paris, FR.</li>
+      <li>October 11, 2022: Our paper <a href="https://arxiv.org/abs/2009.08108">"Fixed Effects Binary Choice Models with Three or More Periods"</a>, with <a href="http://www.crest.fr/ses.php?user=2986">Laurent Davezies</a> and <a href="https://faculty.crest.fr/xdhaultfoeuille/">Xavier D'Haultfœuille</a>, has just been accepted for publication in **Quantitative Economics**!</li>
+      <li>September 11, 2022:  NEW VERSION! ["A Simple and Computationally Trivial Estimator for Grouped Fixed Effects Models (https://github.com/martinmugnier/martinmugnier.github.io/blob/4dfd6a73d00b3d62eeb1c7228407304e0d83d3ea/files/a_simple_and_computationally_trivial_estimator_for_grouped_fixed_effects_models.pdf)</li>
+      <li>August 10, 2022: new working paper available! (["Identification and (Fast) Estimation of Large Nonlinear Panel Models with Two-Way Fixed Effects"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4186349), with [Ao Wang](https://sites.google.com/view/aowang-economics/home))</li>
       <li>August 22-26, 2022: I gave a talk at the 2022 EEA-ESEM Conference, Milan, Italy.</li>
       <li> July 14-16, 2022: I gave a talk at the 2022 Bristol Econometric Study Group Conference, Bristol, UK. </li>
       <li> June 22-24, 2022: I gave an online talk at the 2022 Asian Meeting of the Econometric Society, Shenzhen, China. </li>
