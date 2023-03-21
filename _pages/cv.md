@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my full CV [here](https://github.com/martinmugnier/martinmugnier.github.io/raw/master/files/CV_Martin_Mugnier.pdf).
+You can find my full CV [here](https://martinmugnier.github.io/files/CV_Martin_Mugnier.pdf).
 
 ## Education
 
