@@ -12,7 +12,7 @@ Welcome!
 
 I am a Postdoctoral Research Fellow in Economics at the [University of Oxford](https://www.ox.ac.uk/), with an affiliation to [Nuffield College](https://www.nuffield.ox.ac.uk/).
 
-I received my Ph.D. in Economics from [CREST](http://crest.science/), [ENSAE Paris](https://www.ensae.fr/), [Institut Polytechnique de Paris](https://www.ip-paris.fr/) in June 2023.
+I hold a Ph.D. in Economics from [Institut Polytechnique de Paris](https://www.ip-paris.fr/), which I prepared at [CREST](http://crest.science/) and defended at [ENSAE Paris](https://www.ensae.fr/) in June 2023.
 
 My main field of research is Econometrics, with a focus on identification and estimation of nonlinear panel data models. I am particularly interested in the use of high-dimensional statistics and machine learning tools (e.g., unsupervised clustering for grouped fixed effects) to solve such problems. 
 
