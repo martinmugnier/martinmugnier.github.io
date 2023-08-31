@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome!
 
-I am a Postdoctoral Research Fellow in Economics at the University of Oxford, with an affiliation to Nuffield College.
+I am a Postdoctoral Research Fellow in Economics at the [University of Oxford](https://www.ox.ac.uk/), with an affiliation to [Nuffield College](https://www.nuffield.ox.ac.uk/).
 
 I received my Ph.D. in Economics from [CREST](http://crest.science/), [ENSAE Paris](https://www.ensae.fr/), [Institut Polytechnique de Paris](https://www.ip-paris.fr/) in June 2023.
 
