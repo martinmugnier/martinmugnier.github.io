@@ -18,4 +18,4 @@ I hold a Ph.D. in Economics from the [Institut Polytechnique de Paris](https://w
 
 In September 2024, I will join the <a href="https://www.parisschoolofeconomics.eu/en/about/">Paris School of Economics (PSE)</a> as an Assistant Professor (tenure track).
 
-**Contact:** [martin[dot]mugnier[at]economics[dot]ox[dot]ac[dot]uk](mailto:martin.mugnier@economics.ox.ac.uk).
+**Contact:** [martin.mugnier@economics.ox.ac.uk](mailto:martin.mugnier@economics.ox.ac.uk).
