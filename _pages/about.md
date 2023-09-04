@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome!
 
-I am a Postdoctoral Research Fellow in Economics at the [University of Oxford](https://www.ox.ac.uk/), with an affiliation to [Nuffield College](https://www.nuffield.ox.ac.uk/).
+I am a Postdoctoral Research Fellow in Economics at the [University of Oxford](https://www.ox.ac.uk/) and a Non-stipendiary Research Fellow at [Nuffield College](https://www.nuffield.ox.ac.uk/).
 
 My main field of research is Econometrics, with a focus on identification and estimation of nonlinear panel data models. I am particularly interested in the use of high-dimensional statistics and machine learning tools (e.g., unsupervised clustering for grouped fixed effects) to solve such problems. 
 
