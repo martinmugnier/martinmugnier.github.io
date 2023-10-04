@@ -20,7 +20,7 @@ You can find my full CV [here](https://martinmugnier.github.io/files/CV_Martin_M
 - 2019: Engineering degree in Economics & Statistics, [ENSAE Institut Polytechnique de Paris](https://www.ensae.fr/en/)
   - Major in Data Science & Statistical Learning
   
-- 2019: M. Sc. in Economics, [École Normale Supérieure Paris-Saclay](https://ens-paris-saclay.fr/en)
+- 2019: M.Sc. in Economics, [École Normale Supérieure Paris-Saclay](https://ens-paris-saclay.fr/en)
   - 2017-2019: double-diploma with ENSAE Paris in Economics & Statistics
   - 2016-2017: first year of the [Master in Economics](http://phd-in-economics.com/) (joint program offered by Ecole Polytechnique, ENSAE IP Paris, HEC Paris & ENS Paris-Saclay)
   - 2016: Bachelor’s degree in Economics and Management from [Université Paris 1 Panthéon-Sorbonne](https://www.pantheonsorbonne.fr/accueil) & [TSE](https://www.tse-fr.eu/fr)
