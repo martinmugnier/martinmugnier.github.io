@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 ## Courses
-
+- Approximate Factor Modelling in Economics, Paris School of Economics, Doctoral course (Winter 2024)
 - Linear Algebra and Python, HEC Paris & ENSAE IP Paris, Undergraduate level (Fall 2019)
 
 ## TA sessions
