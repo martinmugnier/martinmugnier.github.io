@@ -21,5 +21,3 @@ In September 2024, I will join the <a href="https://www.parisschoolofeconomics.e
 
 **Contact:** [martin.mugnier@economics.ox.ac.uk](mailto:martin.mugnier@economics.ox.ac.uk).
 
-*We are organizing a Workshop on "Recent Advances in Panel and Network Data" in Oxford, 10-11 June 2024. If you are interested in presenting, then submit your abstract by Feb 11 to MetricsWorkshop@nuffield.ox.ac.uk. More details [here](https://users.ox.ac.uk/~econ0610/PANEDA/Workshop2024/workshop2024.html).*
-
