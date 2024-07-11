@@ -21,6 +21,14 @@ author_profile: true
 ## Working Papers
 
 <ul>
+  <li>R. A. Fisher's Exact Test Revisited
+<details><summary>[Abstract] [<a href="https://arxiv.org/abs/2407.07251">Paper</a>]</summary>
+<p>
+<em> This note provides a conceptual clarification of Ronald Aylmer Fisher's (1935) pioneering exact test in the context of the Lady Testing Tea experiment. It unveils a critical implicit assumption in Fisher's calibration: the taster minimizes expected misclassification given fixed probabilistic information. Without similar assumptions or an explicit alternative hypothesis, the rationale behind Fisher's specification of the rejection region remains unclear.
+ </em>
+</p>
+</details>
+ </li>
  <li>A Simple and Computationally Trivial Estimator for Grouped Fixed Effects Models, Revision requested at <em><b>Journal of Econometrics</b></em>
 <details><summary>[Abstract] [<a href="http://arxiv.org/abs/2203.08879">Paper (version: Dec. 2023)</a>][<a href="https://github.com/martinmugnier/TPWD-Estimators">Replication Code</a>][<a href="https://github.com/martinmugnier/martinmugnier.github.io/blob/master/files/a_simple_and_computationally_trivial_estimator_for_grouped_fixed_effects_models_SUPP_MATv2.pdf">Supplemental Material</a>]</summary>
 <p>
