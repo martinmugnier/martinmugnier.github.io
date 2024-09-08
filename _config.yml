@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Martin Mugnier"
 title_separator          : "-"
 name                     : &name "Martin Mugnier"
-description              : &description "Postdoctoral Research Fellow"
+description              : &description "Assistant Professor"
 url                      : https://martinmugnier.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "martinmugnier/martinmugnier.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Martin Mugnier"
   avatar           : "Nuffield-168.jpg" # Tom Weller Photography
-  bio              : "Postdoctoral Research Fellow"
-  location         : "University of Oxford, UK"
+  bio              : "Assistant Professor"
+  location         : "Paris School of Economics"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
