@@ -18,5 +18,5 @@ My main field of research is Econometrics, with a focus on identification and es
 I hold a Ph.D. in Economics from the [Institut Polytechnique de Paris](https://www.ip-paris.fr/), which I prepared at [CREST](http://crest.science/) and defended at [ENSAE Paris](https://www.ensae.fr/) in June 2023.
 
 
-**Contact:** [martin.mugnier@psemail.eu](mailto:martin.mugnier@psemail.eu).
+**Contact:** martin \[dot\] mugnier \[at\] psemail \[dot\] eu.
 
