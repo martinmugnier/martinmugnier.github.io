@@ -37,7 +37,7 @@ author_profile: true
 </p>
 </details>
  </li>
- <li>Fixed Effects Nonlinear Panel Models with Heterogeneous Slopes: Identification and Consistency (with <a href="https://sites.google.com/view/aowang-economics/home">Ao Wang</a>), <em>Submitted</em>
+ <li>Fixed Effects Nonlinear Panel Models with Heterogeneous Slopes: Identification and Consistency (with <a href="https://sites.google.com/view/aowang-economics/home">Ao Wang</a>), <em>Submitted</em> <br>
   <sub> This paper supersedes "Identification and (Fast) Estimation of Large Nonlinear Panel Models with Two-Way Fixed Effects" </sub>
  <details><summary>[Abstract][<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4186349">Paper</a>][<a href="https://github.com/martinmugnier/nlmfe">Python package</a>]</summary>
   <p>
