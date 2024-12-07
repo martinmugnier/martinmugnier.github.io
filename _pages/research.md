@@ -42,7 +42,7 @@ author_profile: true
    <em> We study a class of two-way fixed effects index function models with a nonparametric link function and individual- (or time-) specific slopes. Our model alleviates potential misspecification errors due to the common practice of specifying a known link function such as Gaussian and its tail behavior. It also enables to incorporate richer unobserved heterogeneity in the marginal effects of covariates via heterogeneous slopes across individuals.  We show the identification of the link function as well as the slopes and fixed effects parameters when both individual and time dimensions are large. We propose a nonparametric consistency result for the fixed effects sieve maximum likelihood estimators. Finally, we apply our method to the study of establishing exportation and illustrate the consequences of imposing Gaussian link function and homogeneity on the slope of distance. 
    </em>
   </p>
-  </details> <br>
+  </details>
   <sub> This paper supersedes "Identification and (Fast) Estimation of Large Nonlinear Panel Models with Two-Way Fixed Effects" </sub>
 
   </li>
