@@ -28,15 +28,6 @@ author_profile: true
  </em>
 </p>
 </details>
- </li>
- <li>R. A. Fisher's Exact Test Revisited
-<details><summary>[Abstract] [<a href="https://arxiv.org/abs/2407.07251">Paper</a>]</summary>
-<p>
-<em> This note provides a conceptual clarification of Ronald Aylmer Fisher's (1935) pioneering exact test in the context of the Lady Testing Tea experiment. It unveils a critical implicit assumption in Fisher's calibration: the taster minimizes expected misclassification given fixed probabilistic information. Without similar assumptions or an explicit alternative hypothesis, the rationale behind Fisher's specification of the rejection region remains unclear.
- </em>
-</p>
-</details>
- </li>
  <li>Fixed Effects Nonlinear Panel Models with Heterogeneous Slopes: Identification and Consistency (with <a href="https://sites.google.com/view/aowang-economics/home">Ao Wang</a>), <em>Submitted</em> <details><summary>[Abstract][<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4186349">Paper (version: Dec. 2024)</a>][<a href="https://github.com/martinmugnier/nlmfe">Python package</a>]</summary>
   <p>
    <em> We study a class of two-way fixed effects index function models with a nonparametric link function and individual- (or time-) specific slopes. Our model alleviates potential misspecification errors due to the common practice of specifying a known link function such as Gaussian and its tail behavior. It also enables to incorporate richer unobserved heterogeneity in the marginal effects of covariates via heterogeneous slopes across individuals.  We show the identification of the link function as well as the slopes and fixed effects parameters when both individual and time dimensions are large. We propose a nonparametric consistency result for the fixed effects sieve maximum likelihood estimators. Finally, we apply our method to the study of establishing exportation and illustrate the consequences of imposing Gaussian link function and homogeneity on the slope of distance. 
@@ -53,6 +44,15 @@ author_profile: true
   </p>
   </details>
   </li>
+   </li>
+ <li>R. A. Fisher's Exact Test Revisited
+<details><summary>[Abstract] [<a href="https://arxiv.org/abs/2407.07251">Paper</a>]</summary>
+<p>
+<em> This note provides a conceptual clarification of Ronald Aylmer Fisher's (1935) pioneering exact test in the context of the Lady Testing Tea experiment. It unveils a critical implicit assumption in Fisher's calibration: the taster minimizes expected misclassification given fixed probabilistic information. Without similar assumptions or an explicit alternative hypothesis, the rationale behind Fisher's specification of the rejection region remains unclear.
+ </em>
+</p>
+</details>
+ </li>
   
  </ul>
 
