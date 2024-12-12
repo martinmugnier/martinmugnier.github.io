@@ -36,6 +36,14 @@ author_profile: true
   <sub> This paper supersedes "Identification and (Fast) Estimation of Large Nonlinear Panel Models with Two-Way Fixed Effects". </sub>
   </details>
   </li>
+  <li> Inference After Discretizing Unobserved Heterogeneity (with <a href="https://sites.google.com/view/jad-beyhum">Jad Beyhum</a>)
+  <details><summary>[Abstract][<a href="https://arxiv.org/abs/2412.07352">arXiv</a>]</summary>
+  <p>
+   <em>
+    We consider a linear panel data model with nonseparable two-way unobserved heterogeneity corresponding to a linear version of the model studied in Bonhomme et al. (2022). We show that inference is possible in this setting using a straightforward two-step estimation procedure inspired by existing discretization approaches. In the first step, we construct a discrete approximation of the unobserved heterogeneity by (k-means) clustering observations separately across the individual ($i$) and time ($t$) dimensions. In the second step, we estimate a linear model with two-way group fixed effects specific to each cluster. Our approach shares similarities with methods from the double machine learning literature, as the underlying moment conditions exhibit the same type of bias-reducing properties. We provide a theoretical analysis of a cross-fitted version of our estimator, establishing its asymptotic normality at parametric rate under the condition $\max(N,T)=o(\min(N,T)^3)$. Simulation studies demonstrate that our methodology achieves excellent finite-sample performance, even when $T$ is negligible with respect to $N$.
+   </em>
+  </p>
+ </li>
   <li>Unobserved Clusters of Time-Varying Heterogeneity in Nonlinear Panel Data Models
    <details><summary>[Abstract][<a href="https://drive.google.com/file/d/1KhmV8tOcoGdIMMpQ4aaw0ddvyeL5tG4V/view?usp=sharing">Paper</a>]</summary>
   <p>
@@ -46,16 +54,8 @@ author_profile: true
   </li>
    </li>
 
- <li> Inference After Discretizing Unobserved Heterogeneity (with <a href="https://sites.google.com/view/jad-beyhum">Jad Beyhum</a>)
-  <details><summary>[Abstract][<a href="https://arxiv.org/abs/2412.07352">Paper</a>]</summary>
-  <p>
-   <em>
-    We consider a linear panel data model with nonseparable two-way unobserved heterogeneity corresponding to a linear version of the model studied in Bonhomme et al. (2022). We show that inference is possible in this setting using a straightforward two-step estimation procedure inspired by existing discretization approaches. In the first step, we construct a discrete approximation of the unobserved heterogeneity by (k-means) clustering observations separately across the individual ($i$) and time ($t$) dimensions. In the second step, we estimate a linear model with two-way group fixed effects specific to each cluster. Our approach shares similarities with methods from the double machine learning literature, as the underlying moment conditions exhibit the same type of bias-reducing properties. We provide a theoretical analysis of a cross-fitted version of our estimator, establishing its asymptotic normality at parametric rate under the condition $\max(N,T)=o(\min(N,T)^3)$. Simulation studies demonstrate that our methodology achieves excellent finite-sample performance, even when $T$ is negligible with respect to $N$.
-   </em>
-  </p>
- </li>
  <li>R. A. Fisher's Exact Test Revisited
-<details><summary>[Abstract] [<a href="https://arxiv.org/abs/2407.07251">Paper</a>]</summary>
+<details><summary>[Abstract] [<a href="https://arxiv.org/abs/2407.07251">arXiv</a>]</summary>
 <p>
 <em> This note provides a conceptual clarification of Ronald Aylmer Fisher's (1935) pioneering exact test in the context of the Lady Testing Tea experiment. It unveils a critical implicit assumption in Fisher's calibration: the taster minimizes expected misclassification given fixed probabilistic information. Without similar assumptions or an explicit alternative hypothesis, the rationale behind Fisher's specification of the rejection region remains unclear.
  </em>
