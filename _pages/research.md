@@ -29,7 +29,8 @@ author_profile: true
 </p>
 </details>
  </li>
- <li>Fixed Effects Nonlinear Panel Models with Heterogeneous Slopes: Identification and Consistency (with <a href="https://sites.google.com/view/aowang-economics/home">Ao Wang</a>), <em>Submitted</em> <details><summary>[Abstract][<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4186349">Paper (version: Dec. 2024)</a>][<a href="https://github.com/martinmugnier/nlmfe">Python package</a>]</summary>
+ <li>Fixed Effects Nonlinear Panel Models with Heterogeneous Slopes: Identification and Consistency (with <a href="https://sites.google.com/view/aowang-economics/home">Ao Wang</a>), <em>Submitted</em> 
+  <details><summary>[Abstract][<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4186349">Paper (version: Dec. 2024)</a>][<a href="https://github.com/martinmugnier/nlmfe">Python package</a>]</summary>
   <p>
    <em> We study a class of two-way fixed effects index function models with a nonparametric link function and individual- (or time-) specific slopes. Our model alleviates potential misspecification errors due to the common practice of specifying a known link function such as Gaussian and its tail behavior. It also enables to incorporate richer unobserved heterogeneity in the marginal effects of covariates via heterogeneous slopes across individuals.  We show the identification of the link function as well as the slopes and fixed effects parameters when both individual and time dimensions are large. We propose a nonparametric consistency result for the fixed effects sieve maximum likelihood estimators. Finally, we apply our method to the study of establishing exportation and illustrate the consequences of imposing Gaussian link function and homogeneity on the slope of distance. 
    </em>
@@ -44,6 +45,7 @@ author_profile: true
    <em> We consider a linear panel data model with nonseparable two-way unobserved heterogeneity corresponding to a linear version of the model studied in Bonhomme et al. (2022). We show that inference is possible in this setting using a straightforward two-step estimation procedure inspired by existing discretization approaches. In the first step, we construct a discrete approximation of the unobserved heterogeneity by (k-means) clustering observations separately across the individual ($i$) and time ($t$) dimensions. In the second step, we estimate a linear model with two-way group fixed effects specific to each cluster. Our approach shares similarities with methods from the double machine learning literature, as the underlying moment conditions exhibit the same type of bias-reducing properties. We provide a theoretical analysis of a cross-fitted version of our estimator, establishing its asymptotic normality at parametric rate under the condition $\max(N,T)=o(\min(N,T)^3)$. Simulation studies demonstrate that our methodology achieves excellent finite-sample performance, even when $T$ is negligible with respect to $N$.
    </em>
   </p>
+  </details>
  </li>
    
   <li>Unobserved Clusters of Time-Varying Heterogeneity in Nonlinear Panel Data Models
