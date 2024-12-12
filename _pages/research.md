@@ -52,7 +52,6 @@ author_profile: true
   </p>
   </details>
   </li>
-   </li>
 
  <li>R. A. Fisher's Exact Test Revisited
 <details><summary>[Abstract] [<a href="https://arxiv.org/abs/2407.07251">Paper</a>]</summary>
