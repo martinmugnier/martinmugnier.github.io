@@ -24,6 +24,4 @@ You can find my full CV [here](https://martinmugnier.github.io/files/CV_Martin_M
 <!--
   - 2017-2019 - double-diploma ENS-ENSAE Paris in Economics & Statistics
   - 2016-2017 - first year of the [Master in Economics](http://phd-in-economics.com/) (joint program offered by Ecole Polytechnique, ENSAE IP Paris, HEC Paris & ENS Paris-Saclay)
-  - 2016 - B.Sc. in Economics & Management, [Université Paris 1 Panthéon-Sorbonne](https://www.pantheonsorbonne.fr/accueil)
-
--->
+  - 2016 - B.Sc. in Economics & Management, [Université Paris 1 Panthéon-Sorbonne](https://www.pantheonsorbonne.fr/accueil) -->
