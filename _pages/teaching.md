@@ -8,8 +8,8 @@ author_profile: true
 {% include base_path %}
 
 ## Courses
-- Advanced Econometrics, Paris School of Economics, Graduate level (Spring 2025)
-- Approximate Factor Modelling in Economics, Paris School of Economics, Doctoral course (Winter 2024)
+- Advanced Econometrics, Paris School of Economics, Graduate level (Spring 2025, 2026)
+- Approximate Factor Modelling in Economics, Paris School of Economics, Doctoral course (Spring 2024, 2026)
 - Linear Algebra and Python, HEC Paris & ENSAE IP Paris, Undergraduate level (Fall 2019)
 
 ## TA sessions
