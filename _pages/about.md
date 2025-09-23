@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Welcome!
-
 I am an Assistant Professor at the <a href="https://www.parisschoolofeconomics.eu/en/about/">Paris School of Economics (PSE)</a>. Prior to that, I was a Postdoctoral Research Fellow in Economics at the [University of Oxford](https://www.ox.ac.uk/) and a Non-Stipendiary Research Fellow at [Nuffield College](https://www.nuffield.ox.ac.uk/).
 
 
