@@ -40,7 +40,7 @@ author_profile: true
   </details>
   </li>
  
-  <li>Inference After Discretizing Time-Varying Unobserved Heterogeneity (with <a href="https://sites.google.com/view/jad-beyhum">Jad Beyhum</a>)
+  <li>Inference After Discretizing Time-Varying Unobserved Heterogeneity (with <a href="https://sites.google.com/view/jad-beyhum">Jad Beyhum</a>), <em>Revision requested at <b>Review of Economic Studies</b></em>
   <details><summary>[Abstract][<a href="https://arxiv.org/abs/2412.07352">Paper (version: May 2025)</a>][<a href="https://www.cemmap.ac.uk/publication/inference-after-discretizing-unobserved-heterogeneity/">Cemmap working paper</a>]</summary>
   <p>
    <em> Approximating time-varying unobserved heterogeneity by discrete types has become increasingly popular in economics. Yet, provably valid post-clustering inference for target parameters in models that do not impose an exact group structure is still lacking. This paper fills this gap in the leading case of a linear panel data model with nonseparable two-way unobserved heterogeneity. Building on insights from the double machine learning literature, we propose a simple inference procedure based on a bias-reducing moment. Asymptotic theory and simulations suggest excellent performance. In the application on fiscal policy we revisit, the novel approach yields conclusions in line with economic theory.
