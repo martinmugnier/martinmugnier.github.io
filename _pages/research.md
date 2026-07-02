@@ -30,15 +30,9 @@ author_profile: true
 
 <ul>
 
- <li>Fixed Effects Nonlinear Panel Models with Heterogeneous Slopes: Identification and Consistency (with <a href="https://sites.google.com/view/aowang-economics/home">Ao Wang</a>), <em>Revision requested at <b>Journal of Econometrics</b></em> 
-  <details><summary>[Abstract][<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4186349">Paper (version: Dec. 2024)</a>][<a href="https://github.com/martinmugnier/nlmfe">Python package</a>]</summary>
-  <p>
-   <em> We study a class of two-way fixed effects index function models with a nonparametric link function and individual- (or time-) specific slopes. Our model alleviates potential misspecification errors due to the common practice of specifying a known link function such as Gaussian and its tail behavior. It also enables to incorporate richer unobserved heterogeneity in the marginal effects of covariates via heterogeneous slopes across individuals.  We show the identification of the link function as well as the slopes and fixed effects parameters when both individual and time dimensions are large. We propose a nonparametric consistency result for the fixed effects sieve maximum likelihood estimators. Finally, we apply our method to the study of establishing exportation and illustrate the consequences of imposing Gaussian link function and homogeneity on the slope of distance. 
-   </em>
-  </p>
-  <sub> This paper supersedes "Identification and (Fast) Estimation of Large Nonlinear Panel Models with Two-Way Fixed Effects". </sub>
-  </details>
-  </li>
+ <li> Asymptotic  Properties  of  Empirical  Quantile-Based Estimators (with <a href="https://julienchhor.github.io"> Julien Chhor</a>, <a href="https://faculty.crest.fr/xdhaultfoeuille/">Xavier D'Haultfœuille</a>, and <a href="https://sites.google.com/site/jeremylhour/">Jérémy L'Hour</a>)
+ </li>
+
  
   <li>Inference After Discretizing Time-Varying Unobserved Heterogeneity (with <a href="https://sites.google.com/view/jad-beyhum">Jad Beyhum</a>), <em>Revision requested at <b>Review of Economic Studies</b></em>
   <details><summary>[Abstract][<a href="https://arxiv.org/abs/2412.07352">Paper (version: May 2025)</a>][<a href="https://www.cemmap.ac.uk/publication/inference-after-discretizing-unobserved-heterogeneity/">Cemmap working paper</a>]</summary>
@@ -48,7 +42,17 @@ author_profile: true
   </p>
   </details>
  </li>
-   
+
+    <li>Fixed Effects Nonlinear Panel Models with Heterogeneous Slopes: Identification and Consistency (with <a href="https://sites.google.com/view/aowang-economics/home">Ao Wang</a>), <em>Revision requested at <b>Journal of Econometrics</b></em> 
+  <details><summary>[Abstract][<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4186349">Paper (version: Dec. 2024)</a>][<a href="https://github.com/martinmugnier/nlmfe">Python package</a>]</summary>
+  <p>
+   <em> We study a class of two-way fixed effects index function models with a nonparametric link function and individual- (or time-) specific slopes. Our model alleviates potential misspecification errors due to the common practice of specifying a known link function such as Gaussian and its tail behavior. It also enables to incorporate richer unobserved heterogeneity in the marginal effects of covariates via heterogeneous slopes across individuals.  We show the identification of the link function as well as the slopes and fixed effects parameters when both individual and time dimensions are large. We propose a nonparametric consistency result for the fixed effects sieve maximum likelihood estimators. Finally, we apply our method to the study of establishing exportation and illustrate the consequences of imposing Gaussian link function and homogeneity on the slope of distance. 
+   </em>
+  </p>
+  <sub> This paper supersedes "Identification and (Fast) Estimation of Large Nonlinear Panel Models with Two-Way Fixed Effects". </sub>
+  </details>
+  </li>
+  
   <li>Unobserved Clusters of Time-Varying Heterogeneity in Nonlinear Panel Data Models
    <details><summary>[Abstract][<a href="https://drive.google.com/file/d/1KhmV8tOcoGdIMMpQ4aaw0ddvyeL5tG4V/view?usp=sharing">Paper</a>]</summary>
   <p>
@@ -66,16 +70,7 @@ author_profile: true
 </p>
 </details>
  </li>
-  
  </ul>
-
-
-
-## Work in Progress
-
-<ul>
- <li> Asymptotic  Properties  of  Empirical  Quantile-Based Estimators (with <a href="https://julienchhor.github.io"> Julien Chhor</a>, <a href="https://faculty.crest.fr/xdhaultfoeuille/">Xavier D'Haultfœuille</a>, and <a href="https://sites.google.com/site/jeremylhour/">Jérémy L'Hour</a>)</li>
-</ul>
 
 ## Unpublished Work
 
