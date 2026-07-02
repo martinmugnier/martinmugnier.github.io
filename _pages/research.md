@@ -33,8 +33,7 @@ author_profile: true
  <li> Asymptotic  Properties  of  Empirical  Quantile-Based Estimators (with <a href="https://julienchhor.github.io"> Julien Chhor</a>, <a href="https://faculty.crest.fr/xdhaultfoeuille/">Xavier D'Haultfœuille</a>, and <a href="https://sites.google.com/site/jeremylhour/">Jérémy L'Hour</a>)
  </li>
 
- 
-  <li>Inference After Discretizing Time-Varying Unobserved Heterogeneity (with <a href="https://sites.google.com/view/jad-beyhum">Jad Beyhum</a>), <em>Revision requested at <b>Review of Economic Studies</b></em>
+ <li>Inference After Discretizing Time-Varying Unobserved Heterogeneity (with <a href="https://sites.google.com/view/jad-beyhum">Jad Beyhum</a>), <em>Revision requested at <b>Review of Economic Studies</b></em>
   <details><summary>[Abstract][<a href="https://arxiv.org/abs/2412.07352">Paper (version: May 2025)</a>][<a href="https://www.cemmap.ac.uk/publication/inference-after-discretizing-unobserved-heterogeneity/">Cemmap working paper</a>]</summary>
   <p>
    <em> Approximating time-varying unobserved heterogeneity by discrete types has become increasingly popular in economics. Yet, provably valid post-clustering inference for target parameters in models that do not impose an exact group structure is still lacking. This paper fills this gap in the leading case of a linear panel data model with nonseparable two-way unobserved heterogeneity. Building on insights from the double machine learning literature, we propose a simple inference procedure based on a bias-reducing moment. Asymptotic theory and simulations suggest excellent performance. In the application on fiscal policy we revisit, the novel approach yields conclusions in line with economic theory.
@@ -43,7 +42,7 @@ author_profile: true
   </details>
  </li>
 
-    <li>Fixed Effects Nonlinear Panel Models with Heterogeneous Slopes: Identification and Consistency (with <a href="https://sites.google.com/view/aowang-economics/home">Ao Wang</a>), <em>Revision requested at <b>Journal of Econometrics</b></em> 
+ <li>Fixed Effects Nonlinear Panel Models with Heterogeneous Slopes: Identification and Consistency (with <a href="https://sites.google.com/view/aowang-economics/home">Ao Wang</a>), <em>Revision requested at <b>Journal of Econometrics</b></em> 
   <details><summary>[Abstract][<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4186349">Paper (version: Dec. 2024)</a>][<a href="https://github.com/martinmugnier/nlmfe">Python package</a>]</summary>
   <p>
    <em> We study a class of two-way fixed effects index function models with a nonparametric link function and individual- (or time-) specific slopes. Our model alleviates potential misspecification errors due to the common practice of specifying a known link function such as Gaussian and its tail behavior. It also enables to incorporate richer unobserved heterogeneity in the marginal effects of covariates via heterogeneous slopes across individuals.  We show the identification of the link function as well as the slopes and fixed effects parameters when both individual and time dimensions are large. We propose a nonparametric consistency result for the fixed effects sieve maximum likelihood estimators. Finally, we apply our method to the study of establishing exportation and illustrate the consequences of imposing Gaussian link function and homogeneity on the slope of distance. 
@@ -51,7 +50,7 @@ author_profile: true
   </p>
   <sub> This paper supersedes "Identification and (Fast) Estimation of Large Nonlinear Panel Models with Two-Way Fixed Effects". </sub>
   </details>
-  </li>
+</li>
   
   <li>Unobserved Clusters of Time-Varying Heterogeneity in Nonlinear Panel Data Models
    <details><summary>[Abstract][<a href="https://drive.google.com/file/d/1KhmV8tOcoGdIMMpQ4aaw0ddvyeL5tG4V/view?usp=sharing">Paper</a>]</summary>
