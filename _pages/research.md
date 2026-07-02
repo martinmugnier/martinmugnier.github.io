@@ -31,6 +31,12 @@ author_profile: true
 <ul>
 
  <li> Asymptotic  Properties  of  Empirical  Quantile-Based Estimators (with <a href="https://julienchhor.github.io"> Julien Chhor</a>, <a href="https://faculty.crest.fr/xdhaultfoeuille/">Xavier D'Haultfœuille</a>, and <a href="https://sites.google.com/site/jeremylhour/">Jérémy L'Hour</a>)
+ <details><summary>[Abstract][<a href="https://arxiv.org/abs/2412.07352">Paper (version: May 2025)</a>][<a href="https://www.cemmap.ac.uk/publication/inference-after-discretizing-unobserved-heterogeneity/">Cemmap working paper</a>]</summary>
+  <p>
+   <em> We consider inference for parameters of the form $\theta_0 = E[F_Y^{-1}\circ F_Z(X)]$ for some variables $X$, $Y$ and $Z$. Such parameters appear, in particular, in the ``changes-in-changes'' model of Athey and Imbens (2006). We first establish that $\widehat{\theta}$, a plug-in estimator of $\theta_0$, is root-$n$ consistent and asymptotically normal under weaker conditions than those previously available, allowing in particular for unbounded variables. Next, we propose a new estimator of the asymptotic variance of $\widehat{\theta}$ and show its consistency, also allowing for unbounded variables. Monte Carlo simulations suggest that the conditions for root-$n$ consistency and asymptotic normality are, in some sense, minimal. These simulations highlight that our variance estimator also leads to more accurate inference than some alternative approaches.
+   </em>
+  </p>
+  </details>
  </li>
 
  <li>Inference After Discretizing Time-Varying Unobserved Heterogeneity (with <a href="https://sites.google.com/view/jad-beyhum">Jad Beyhum</a>), <em>Revision requested at <b>Review of Economic Studies</b></em>
